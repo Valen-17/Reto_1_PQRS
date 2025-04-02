@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto_1_PQRS", "Reto_1_PQRS.csproj", "{9069B72F-1E98-4414-A745-C53E07EB14B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9069B72F-1E98-4414-A745-C53E07EB14B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9069B72F-1E98-4414-A745-C53E07EB14B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9069B72F-1E98-4414-A745-C53E07EB14B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9069B72F-1E98-4414-A745-C53E07EB14B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A7A46A-A1EA-4B5B-A943-CA24AFBCDE84}
+	EndGlobalSection
+EndGlobal

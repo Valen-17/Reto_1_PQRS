@@ -1,0 +1,17 @@
+C:\Users\Luz\source\repos\Reto_1_PQRS\bin\Debug\Reto_1_PQRS.exe.config
+C:\Users\Luz\source\repos\Reto_1_PQRS\bin\Debug\Reto_1_PQRS.exe
+C:\Users\Luz\source\repos\Reto_1_PQRS\bin\Debug\Reto_1_PQRS.pdb
+C:\Users\Luz\source\repos\Reto_1_PQRS\bin\Debug\Guna.UI2.dll
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.csproj.AssemblyReference.cache
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Form1.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Properties.Resources.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.csproj.GenerateResource.cache
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.csproj.CoreCompileInputs.cache
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_P.BAFD858E.Up2Date
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.exe
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.pdb
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Solicitudes.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\bin\Debug\es\Reto_1_PQRS.resources.dll
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Solicitudes.es.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\es\Reto_1_PQRS.resources.dll
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Ingreso.resources
