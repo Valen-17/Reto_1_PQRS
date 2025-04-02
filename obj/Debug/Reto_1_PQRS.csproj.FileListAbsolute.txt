@@ -15,3 +15,5 @@ C:\Users\Luz\source\repos\Reto_1_PQRS\bin\Debug\es\Reto_1_PQRS.resources.dll
 C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Solicitudes.es.resources
 C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\es\Reto_1_PQRS.resources.dll
 C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Ingreso.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.FormAdmin.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Nuevo_PQRSFD.resources

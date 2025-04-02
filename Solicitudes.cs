@@ -12,7 +12,6 @@ namespace Reto_1_PQRS
 {
     public partial class Solicitudes: Form
     {
-        private bool panelVisible = false;
         public Solicitudes()
         {
             InitializeComponent();

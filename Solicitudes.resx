@@ -1976,7 +1976,7 @@
   <data name="Next_button.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgCAYAAADbcAZoAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DQAACw0B7QfALAAAZR5JREFUeF7t3Q+UVfV56H3U5m/btM1t2pSQdmrG+XN+z3OG/yAGUIlIDURMMOEa
+        DAAACwwBP0AiyAAAZR5JREFUeF7t3Q+UVfV56H3U5m/btM1t2pSQdmrG+XN+z3OG/yAGUIlIDURMMOEa
         GrGBG7FpsO+rb9A0rzRel7SmvTbR6Kq56jXLlPdquHrJtSGmaEpNx1RM0HIxEFAULkQExww6zh/Z73rI
         QPTZG5kZzt5n732+37U+a3V1EObPPns/T+acs0eNIiKi0qSqvxVCaK5UKpNV9Y9EZJGILBeRa0II14cQ
         /kZVb1LVv1fVO1X1myLyLRFZKyLrROQhEfmBqj6mqk+o6lOqukNVd4vIPhF5SUR6VDUy9n8P/v/22Z8Z
@@ -2464,11 +2464,38 @@
   <data name="&gt;&gt;guna2HtmlLabel2.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <data name="guna2Button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Stencil, 20pt</value>
+  </data>
+  <data name="guna2Button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>824, 280</value>
+  </data>
+  <data name="guna2Button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 45</value>
+  </data>
+  <data name="guna2Button1.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="guna2Button1.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="&gt;&gt;guna2Button1.Name" xml:space="preserve">
+    <value>guna2Button1</value>
+  </data>
+  <data name="&gt;&gt;guna2Button1.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2Button1.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2Button1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="guna2TextBox3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 9.5pt</value>
   </data>
   <data name="guna2TextBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>646, 76</value>
+    <value>646, 29</value>
   </data>
   <data name="guna2TextBox3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
@@ -2494,7 +2521,7 @@
   <data name="guna2PictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgCAYAAADbcAZoAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EgAACxIB0t1+/AAA/7JJREFUeF7s/V3MbV1e3QdGuYmU5C5Rt2TfBPkijtwJIUCMQ1ykqgQ0dqwmuFpt
+        EQAACxEBf2RfkQAA/7JJREFUeF7s/V3MbV1e3QdGuYmU5C5Rt2TfBPkijtwJIUCMQ1ykqgQ0dqwmuFpt
         t6yybISJW3IEStuRUSRjgm9KkQuXiS0cQCkUUBkRE9m4CowMohH2e1EyCZYtMFQVH0XVW59AfX+f1lh7
         j73GGvM/15pr7b2fc/bLGNJ455z/tfZznuc5551z/tZ/zrn+tX8tiqIoiqIoiqIoiqIoiqIoiqIoiqIo
         iqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIo
@@ -4344,7 +4371,7 @@
     <value>NoControl</value>
   </data>
   <data name="guna2PictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>564, 65</value>
+    <value>564, 15</value>
   </data>
   <data name="guna2PictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>86, 81</value>
@@ -4367,9 +4394,6 @@
   <data name="&gt;&gt;guna2PictureBox1.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="guna2TextBox4.DefaultText" xml:space="preserve">
-    <value>Cuando se pone en conocimiento de la Administración Municipal de La Estrella una conducta presuntamente irregular para que se adelante la correspondiente investigación, para lo cual se deben indicar las circunstancias de tiempo, modo y lugar, con el objeto de que se establezcan responsabilidades.</value>
-  </data>
   <data name="guna2TextBox4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 10.2pt</value>
   </data>
@@ -4380,7 +4404,7 @@
     <value>4, 6, 4, 6</value>
   </data>
   <data name="guna2TextBox4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>576, 139</value>
+    <value>576, 81</value>
   </data>
   <data name="guna2TextBox4.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -4398,10 +4422,10 @@
     <value>2</value>
   </data>
   <data name="guna2Panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>59, 316</value>
+    <value>59, 331</value>
   </data>
   <data name="guna2Panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>826, 158</value>
+    <value>826, 105</value>
   </data>
   <data name="guna2Panel1.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -4419,13 +4443,13 @@
     <value>guna2Panel2</value>
   </data>
   <data name="&gt;&gt;guna2Panel1.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>1</value>
   </data>
   <data name="guna2HtmlLabel5.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 13.2000008pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>59, 278</value>
+    <value>59, 293</value>
   </data>
   <data name="guna2HtmlLabel5.Size" type="System.Drawing.Size, System.Drawing">
     <value>125, 32</value>
@@ -4446,7 +4470,7 @@
     <value>guna2Panel2</value>
   </data>
   <data name="&gt;&gt;guna2HtmlLabel5.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="guna2HtmlLabel4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 13.2000008pt, style=Bold</value>
@@ -4473,7 +4497,115 @@
     <value>guna2Panel2</value>
   </data>
   <data name="&gt;&gt;guna2HtmlLabel4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;guna2TextBox2.Name" xml:space="preserve">
+    <value>guna2TextBox2</value>
+  </data>
+  <data name="&gt;&gt;guna2TextBox2.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2TextBox2.Parent" xml:space="preserve">
+    <value>PanelDenuncia</value>
+  </data>
+  <data name="&gt;&gt;guna2TextBox2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;guna2PictureBox2.Name" xml:space="preserve">
+    <value>guna2PictureBox2</value>
+  </data>
+  <data name="&gt;&gt;guna2PictureBox2.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2PictureBox, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2PictureBox2.Parent" xml:space="preserve">
+    <value>PanelDenuncia</value>
+  </data>
+  <data name="&gt;&gt;guna2PictureBox2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;guna2TextBox1.Name" xml:space="preserve">
+    <value>guna2TextBox1</value>
+  </data>
+  <data name="&gt;&gt;guna2TextBox1.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2TextBox1.Parent" xml:space="preserve">
+    <value>PanelDenuncia</value>
+  </data>
+  <data name="&gt;&gt;guna2TextBox1.ZOrder" xml:space="preserve">
     <value>2</value>
+  </data>
+  <data name="PanelDenuncia.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 101</value>
+  </data>
+  <data name="PanelDenuncia.Size" type="System.Drawing.Size, System.Drawing">
+    <value>826, 158</value>
+  </data>
+  <data name="PanelDenuncia.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="PanelDenuncia.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;PanelDenuncia.Name" xml:space="preserve">
+    <value>PanelDenuncia</value>
+  </data>
+  <data name="&gt;&gt;PanelDenuncia.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;PanelDenuncia.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;PanelDenuncia.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Btn_mostrar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Stencil, 20pt</value>
+  </data>
+  <data name="Btn_mostrar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>824, 48</value>
+  </data>
+  <data name="Btn_mostrar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 45</value>
+  </data>
+  <data name="Btn_mostrar.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="Btn_mostrar.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="&gt;&gt;Btn_mostrar.Name" xml:space="preserve">
+    <value>Btn_mostrar</value>
+  </data>
+  <data name="&gt;&gt;Btn_mostrar.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;Btn_mostrar.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;Btn_mostrar.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="guna2Panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 91</value>
+  </data>
+  <data name="guna2Panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>958, 518</value>
+  </data>
+  <data name="guna2Panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;guna2Panel2.Name" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2Panel2.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2Panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;guna2Panel2.ZOrder" xml:space="preserve">
+    <value>14</value>
   </data>
   <data name="guna2TextBox2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 9.5pt</value>
@@ -4505,7 +4637,7 @@
   <data name="guna2PictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgCAYAAADbcAZoAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAA/7JJREFUeF7s/V3MbV1e3QdGuYmU5C5Rt2TfBPkijtwJIUCMQ1ykqgQ0dqwmuFpt
+        DgAACw4BQL7hQQAA/7JJREFUeF7s/V3MbV1e3QdGuYmU5C5Rt2TfBPkijtwJIUCMQ1ykqgQ0dqwmuFpt
         t6yybISJW3IEStuRUSRjgm9KkQuXiS0cQCkUUBkRE9m4CowMohH2e1EyCZYtMFQVH0XVW59AfX+f1lh7
         j73GGvM/15pr7b2fc/bLGNJ455z/tfZznuc5551z/tZ/zrn+tX8tiqIoiqIoiqIoiqIoiqIoiqIoiqIo
         iqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIo
@@ -6404,78 +6536,6 @@
   </data>
   <data name="&gt;&gt;guna2TextBox1.ZOrder" xml:space="preserve">
     <value>2</value>
-  </data>
-  <data name="PanelDenuncia.Location" type="System.Drawing.Point, System.Drawing">
-    <value>59, 101</value>
-  </data>
-  <data name="PanelDenuncia.Size" type="System.Drawing.Size, System.Drawing">
-    <value>826, 158</value>
-  </data>
-  <data name="PanelDenuncia.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="PanelDenuncia.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;PanelDenuncia.Name" xml:space="preserve">
-    <value>PanelDenuncia</value>
-  </data>
-  <data name="&gt;&gt;PanelDenuncia.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;PanelDenuncia.Parent" xml:space="preserve">
-    <value>guna2Panel2</value>
-  </data>
-  <data name="&gt;&gt;PanelDenuncia.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="Btn_mostrar.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Stencil, 20pt</value>
-  </data>
-  <data name="Btn_mostrar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>824, 48</value>
-  </data>
-  <data name="Btn_mostrar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 45</value>
-  </data>
-  <data name="Btn_mostrar.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="Btn_mostrar.Text" xml:space="preserve">
-    <value>+</value>
-  </data>
-  <data name="&gt;&gt;Btn_mostrar.Name" xml:space="preserve">
-    <value>Btn_mostrar</value>
-  </data>
-  <data name="&gt;&gt;Btn_mostrar.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;Btn_mostrar.Parent" xml:space="preserve">
-    <value>guna2Panel2</value>
-  </data>
-  <data name="&gt;&gt;Btn_mostrar.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="guna2Panel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>116, 91</value>
-  </data>
-  <data name="guna2Panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>958, 518</value>
-  </data>
-  <data name="guna2Panel2.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
-  </data>
-  <data name="&gt;&gt;guna2Panel2.Name" xml:space="preserve">
-    <value>guna2Panel2</value>
-  </data>
-  <data name="&gt;&gt;guna2Panel2.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2Panel2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;guna2Panel2.ZOrder" xml:space="preserve">
-    <value>14</value>
   </data>
   <data name="guna2HtmlLabel3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt</value>

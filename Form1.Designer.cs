@@ -327,7 +327,7 @@
             this.guna2TextBox3.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2TextBox3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.guna2TextBox3.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox3.Location = new System.Drawing.Point(159, 22);
+            this.guna2TextBox3.Location = new System.Drawing.Point(156, 30);
             this.guna2TextBox3.Margin = new System.Windows.Forms.Padding(7, 9, 7, 9);
             this.guna2TextBox3.Multiline = true;
             this.guna2TextBox3.Name = "guna2TextBox3";
@@ -350,13 +350,13 @@
             this.guna2TextBox4.Font = new System.Drawing.Font("Segoe UI", 11.5F);
             this.guna2TextBox4.ForeColor = System.Drawing.Color.Black;
             this.guna2TextBox4.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox4.Location = new System.Drawing.Point(55, 98);
-            this.guna2TextBox4.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
+            this.guna2TextBox4.Location = new System.Drawing.Point(67, 107);
+            this.guna2TextBox4.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.guna2TextBox4.Multiline = true;
             this.guna2TextBox4.Name = "guna2TextBox4";
             this.guna2TextBox4.PlaceholderText = "";
             this.guna2TextBox4.SelectedText = "";
-            this.guna2TextBox4.Size = new System.Drawing.Size(817, 181);
+            this.guna2TextBox4.Size = new System.Drawing.Size(823, 173);
             this.guna2TextBox4.TabIndex = 3;
             // 
             // Next_button
