@@ -44,5 +44,17 @@ namespace Reto_1_PQRS
             ingresoForm.Show();
             this.Hide();
         }
+
+        private void btn_back_Click(object sender, EventArgs e)
+        {
+            Form1 form1Form = new Form1();
+            form1Form.Show();
+            this.Hide();
+        }
+
+        private void guna2TextBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

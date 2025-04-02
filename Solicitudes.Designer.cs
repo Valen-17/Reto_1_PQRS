@@ -42,12 +42,14 @@
             this.Next_button = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2TextBox3 = new Guna.UI2.WinForms.Guna2TextBox();
-            this.Btn_mostrar = new Guna.UI2.WinForms.Guna2Button();
             this.PanelDenuncia = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
-            this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Btn_mostrar = new Guna.UI2.WinForms.Guna2Button();
+            this.Denuncia = new Guna.UI2.WinForms.Guna2TextBox();
+            this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.btn_back = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Ingreso_login)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).BeginInit();
@@ -58,6 +60,7 @@
             this.guna2Panel2.SuspendLayout();
             this.PanelDenuncia.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btn_back)).BeginInit();
             this.SuspendLayout();
             // 
             // guna2Shapes1
@@ -189,43 +192,9 @@
             this.guna2Panel2.BackColor = System.Drawing.Color.White;
             this.guna2Panel2.Controls.Add(this.PanelDenuncia);
             this.guna2Panel2.Controls.Add(this.Btn_mostrar);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox3);
+            this.guna2Panel2.Controls.Add(this.Denuncia);
             resources.ApplyResources(this.guna2Panel2, "guna2Panel2");
             this.guna2Panel2.Name = "guna2Panel2";
-            // 
-            // guna2TextBox3
-            // 
-            this.guna2TextBox3.BorderColor = System.Drawing.Color.White;
-            this.guna2TextBox3.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox3.DefaultText = "Denuncia:";
-            this.guna2TextBox3.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox3.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox3.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox3.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            resources.ApplyResources(this.guna2TextBox3, "guna2TextBox3");
-            this.guna2TextBox3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(170)))), ((int)(((byte)(136)))));
-            this.guna2TextBox3.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox3.Multiline = true;
-            this.guna2TextBox3.Name = "guna2TextBox3";
-            this.guna2TextBox3.PlaceholderText = "";
-            this.guna2TextBox3.SelectedText = "";
-            // 
-            // Btn_mostrar
-            // 
-            this.Btn_mostrar.BorderColor = System.Drawing.Color.Gray;
-            this.Btn_mostrar.BorderRadius = 15;
-            this.Btn_mostrar.BorderThickness = 2;
-            this.Btn_mostrar.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.ToogleButton;
-            this.Btn_mostrar.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.Btn_mostrar.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.Btn_mostrar.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.Btn_mostrar.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.Btn_mostrar.FillColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.Btn_mostrar, "Btn_mostrar");
-            this.Btn_mostrar.ForeColor = System.Drawing.Color.Gray;
-            this.Btn_mostrar.Name = "Btn_mostrar";
-            this.Btn_mostrar.Click += new System.EventHandler(this.Btn_mostrar_Click);
             // 
             // PanelDenuncia
             // 
@@ -237,6 +206,33 @@
             this.PanelDenuncia.Controls.Add(this.guna2TextBox1);
             resources.ApplyResources(this.PanelDenuncia, "PanelDenuncia");
             this.PanelDenuncia.Name = "PanelDenuncia";
+            // 
+            // guna2TextBox2
+            // 
+            this.guna2TextBox2.BorderColor = System.Drawing.Color.White;
+            this.guna2TextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.guna2TextBox2.DefaultText = "Diez días hábiles para dar respuesta";
+            this.guna2TextBox2.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.guna2TextBox2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.guna2TextBox2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.guna2TextBox2.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.guna2TextBox2.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            resources.ApplyResources(this.guna2TextBox2, "guna2TextBox2");
+            this.guna2TextBox2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.guna2TextBox2.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.guna2TextBox2.Multiline = true;
+            this.guna2TextBox2.Name = "guna2TextBox2";
+            this.guna2TextBox2.PlaceholderText = "";
+            this.guna2TextBox2.SelectedText = "";
+            // 
+            // guna2PictureBox2
+            // 
+            this.guna2PictureBox2.BackColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.guna2PictureBox2, "guna2PictureBox2");
+            this.guna2PictureBox2.ImageRotate = 0F;
+            this.guna2PictureBox2.Name = "guna2PictureBox2";
+            this.guna2PictureBox2.TabStop = false;
+            this.guna2PictureBox2.UseTransparentBackground = true;
             // 
             // guna2TextBox1
             // 
@@ -257,36 +253,64 @@
             this.guna2TextBox1.PlaceholderText = "";
             this.guna2TextBox1.SelectedText = "";
             // 
-            // guna2PictureBox2
+            // Btn_mostrar
             // 
-            this.guna2PictureBox2.BackColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.guna2PictureBox2, "guna2PictureBox2");
-            this.guna2PictureBox2.ImageRotate = 0F;
-            this.guna2PictureBox2.Name = "guna2PictureBox2";
-            this.guna2PictureBox2.TabStop = false;
-            this.guna2PictureBox2.UseTransparentBackground = true;
+            this.Btn_mostrar.BorderColor = System.Drawing.Color.Gray;
+            this.Btn_mostrar.BorderRadius = 15;
+            this.Btn_mostrar.BorderThickness = 2;
+            this.Btn_mostrar.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.ToogleButton;
+            this.Btn_mostrar.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.Btn_mostrar.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.Btn_mostrar.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.Btn_mostrar.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.Btn_mostrar.FillColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.Btn_mostrar, "Btn_mostrar");
+            this.Btn_mostrar.ForeColor = System.Drawing.Color.Gray;
+            this.Btn_mostrar.Name = "Btn_mostrar";
+            this.Btn_mostrar.Click += new System.EventHandler(this.Btn_mostrar_Click);
             // 
-            // guna2TextBox2
+            // Denuncia
             // 
-            this.guna2TextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox2.DefaultText = "";
-            this.guna2TextBox2.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            resources.ApplyResources(this.guna2TextBox2, "guna2TextBox2");
-            this.guna2TextBox2.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox2.Name = "guna2TextBox2";
-            this.guna2TextBox2.PlaceholderText = "";
-            this.guna2TextBox2.SelectedText = "";
+            this.Denuncia.BorderColor = System.Drawing.Color.White;
+            this.Denuncia.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Denuncia.DefaultText = "Denuncia:";
+            this.Denuncia.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Denuncia.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Denuncia.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Denuncia.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Denuncia.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            resources.ApplyResources(this.Denuncia, "Denuncia");
+            this.Denuncia.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(170)))), ((int)(((byte)(136)))));
+            this.Denuncia.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Denuncia.Multiline = true;
+            this.Denuncia.Name = "Denuncia";
+            this.Denuncia.PlaceholderText = "";
+            this.Denuncia.SelectedText = "";
+            // 
+            // guna2HtmlLabel3
+            // 
+            this.guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.guna2HtmlLabel3, "guna2HtmlLabel3");
+            this.guna2HtmlLabel3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.guna2HtmlLabel3.Name = "guna2HtmlLabel3";
+            // 
+            // btn_back
+            // 
+            this.btn_back.FillColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.btn_back, "btn_back");
+            this.btn_back.ImageRotate = 0F;
+            this.btn_back.Name = "btn_back";
+            this.btn_back.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.btn_back.TabStop = false;
+            this.btn_back.Click += new System.EventHandler(this.btn_back_Click);
             // 
             // Solicitudes
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.Controls.Add(this.guna2Panel2);
+            this.Controls.Add(this.btn_back);
+            this.Controls.Add(this.guna2HtmlLabel3);
             this.Controls.Add(this.guna2HtmlLabel2);
             this.Controls.Add(this.Next_button);
             this.Controls.Add(this.guna2CirclePictureBox5);
@@ -299,6 +323,7 @@
             this.Controls.Add(this.guna2Shapes2);
             this.Controls.Add(this.guna2Shapes3);
             this.Controls.Add(this.guna2Shapes1);
+            this.Controls.Add(this.guna2Panel2);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Solicitudes";
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
@@ -311,6 +336,7 @@
             this.guna2Panel2.ResumeLayout(false);
             this.PanelDenuncia.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btn_back)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -331,11 +357,13 @@
         private Guna.UI2.WinForms.Guna2CirclePictureBox Next_button;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel2;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox3;
+        private Guna.UI2.WinForms.Guna2TextBox Denuncia;
         private Guna.UI2.WinForms.Guna2Button Btn_mostrar;
         private Guna.UI2.WinForms.Guna2Panel PanelDenuncia;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox2;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox btn_back;
     }
 }
