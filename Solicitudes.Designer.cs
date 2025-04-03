@@ -42,12 +42,13 @@
             this.Next_button = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
+            this.PanelPicoYPlaca = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2TextBox3 = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2TextBox4 = new Guna.UI2.WinForms.Guna2TextBox();
-            this.guna2HtmlLabel5 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2HtmlLabel4 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.PicoYPlacaLabel = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.DenunciaLabel = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.PanelDenuncia = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
@@ -55,7 +56,6 @@
             this.Btn_mostrar = new Guna.UI2.WinForms.Guna2Button();
             this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.btn_back = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Ingreso_login)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).BeginInit();
@@ -64,7 +64,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Next_button)).BeginInit();
             this.guna2Panel2.SuspendLayout();
-            this.guna2Panel1.SuspendLayout();
+            this.PanelPicoYPlaca.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.PanelDenuncia.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
@@ -199,24 +199,39 @@
             // 
             this.guna2Panel2.BackColor = System.Drawing.Color.White;
             this.guna2Panel2.Controls.Add(this.guna2Button1);
-            this.guna2Panel2.Controls.Add(this.guna2Panel1);
-            this.guna2Panel2.Controls.Add(this.guna2HtmlLabel5);
-            this.guna2Panel2.Controls.Add(this.guna2HtmlLabel4);
+            this.guna2Panel2.Controls.Add(this.PanelPicoYPlaca);
+            this.guna2Panel2.Controls.Add(this.PicoYPlacaLabel);
+            this.guna2Panel2.Controls.Add(this.DenunciaLabel);
             this.guna2Panel2.Controls.Add(this.PanelDenuncia);
             this.guna2Panel2.Controls.Add(this.Btn_mostrar);
             resources.ApplyResources(this.guna2Panel2, "guna2Panel2");
             this.guna2Panel2.Name = "guna2Panel2";
             // 
-            // guna2Panel1
+            // guna2Button1
             // 
-            this.guna2Panel1.BorderColor = System.Drawing.Color.Transparent;
-            this.guna2Panel1.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dash;
-            this.guna2Panel1.BorderThickness = 2;
-            this.guna2Panel1.Controls.Add(this.guna2TextBox3);
-            this.guna2Panel1.Controls.Add(this.guna2PictureBox1);
-            this.guna2Panel1.Controls.Add(this.guna2TextBox4);
-            resources.ApplyResources(this.guna2Panel1, "guna2Panel1");
-            this.guna2Panel1.Name = "guna2Panel1";
+            this.guna2Button1.BorderColor = System.Drawing.Color.Gray;
+            this.guna2Button1.BorderRadius = 15;
+            this.guna2Button1.BorderThickness = 2;
+            this.guna2Button1.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.ToogleButton;
+            this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button1.FillColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.guna2Button1, "guna2Button1");
+            this.guna2Button1.ForeColor = System.Drawing.Color.Gray;
+            this.guna2Button1.Name = "guna2Button1";
+            // 
+            // PanelPicoYPlaca
+            // 
+            this.PanelPicoYPlaca.BorderColor = System.Drawing.Color.Transparent;
+            this.PanelPicoYPlaca.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dash;
+            this.PanelPicoYPlaca.BorderThickness = 2;
+            this.PanelPicoYPlaca.Controls.Add(this.guna2TextBox3);
+            this.PanelPicoYPlaca.Controls.Add(this.guna2PictureBox1);
+            this.PanelPicoYPlaca.Controls.Add(this.guna2TextBox4);
+            resources.ApplyResources(this.PanelPicoYPlaca, "PanelPicoYPlaca");
+            this.PanelPicoYPlaca.Name = "PanelPicoYPlaca";
             // 
             // guna2TextBox3
             // 
@@ -250,8 +265,7 @@
             this.guna2TextBox4.Animated = true;
             this.guna2TextBox4.BorderColor = System.Drawing.Color.White;
             this.guna2TextBox4.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox4.DefaultText = "Es la manifestación que expresa el agrado o satisfacción con un funcionario o con" +
-    " el proceso que genera el servicio.";
+            this.guna2TextBox4.DefaultText = resources.GetString("guna2TextBox4.DefaultText");
             this.guna2TextBox4.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.guna2TextBox4.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.guna2TextBox4.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -265,19 +279,19 @@
             this.guna2TextBox4.PlaceholderText = "";
             this.guna2TextBox4.SelectedText = "";
             // 
-            // guna2HtmlLabel5
+            // PicoYPlacaLabel
             // 
-            this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.guna2HtmlLabel5, "guna2HtmlLabel5");
-            this.guna2HtmlLabel5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(170)))), ((int)(((byte)(136)))));
-            this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
+            this.PicoYPlacaLabel.BackColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.PicoYPlacaLabel, "PicoYPlacaLabel");
+            this.PicoYPlacaLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(170)))), ((int)(((byte)(136)))));
+            this.PicoYPlacaLabel.Name = "PicoYPlacaLabel";
             // 
-            // guna2HtmlLabel4
+            // DenunciaLabel
             // 
-            this.guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.guna2HtmlLabel4, "guna2HtmlLabel4");
-            this.guna2HtmlLabel4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(170)))), ((int)(((byte)(136)))));
-            this.guna2HtmlLabel4.Name = "guna2HtmlLabel4";
+            this.DenunciaLabel.BackColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.DenunciaLabel, "DenunciaLabel");
+            this.DenunciaLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(170)))), ((int)(((byte)(136)))));
+            this.DenunciaLabel.Name = "DenunciaLabel";
             // 
             // PanelDenuncia
             // 
@@ -369,21 +383,6 @@
             this.btn_back.TabStop = false;
             this.btn_back.Click += new System.EventHandler(this.btn_back_Click);
             // 
-            // guna2Button1
-            // 
-            this.guna2Button1.BorderColor = System.Drawing.Color.Gray;
-            this.guna2Button1.BorderRadius = 15;
-            this.guna2Button1.BorderThickness = 2;
-            this.guna2Button1.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.ToogleButton;
-            this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button1.FillColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.guna2Button1, "guna2Button1");
-            this.guna2Button1.ForeColor = System.Drawing.Color.Gray;
-            this.guna2Button1.Name = "guna2Button1";
-            // 
             // Solicitudes
             // 
             resources.ApplyResources(this, "$this");
@@ -415,7 +414,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.Next_button)).EndInit();
             this.guna2Panel2.ResumeLayout(false);
             this.guna2Panel2.PerformLayout();
-            this.guna2Panel1.ResumeLayout(false);
+            this.PanelPicoYPlaca.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.PanelDenuncia.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
@@ -447,9 +446,9 @@
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
         private Guna.UI2.WinForms.Guna2CirclePictureBox btn_back;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel4;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel5;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
+        private Guna.UI2.WinForms.Guna2HtmlLabel DenunciaLabel;
+        private Guna.UI2.WinForms.Guna2HtmlLabel PicoYPlacaLabel;
+        private Guna.UI2.WinForms.Guna2Panel PanelPicoYPlaca;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox3;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox4;
