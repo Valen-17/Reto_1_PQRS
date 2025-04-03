@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Reto_1_PQRS
 {
-    public partial class Form1: Form
+    public partial class Form1 : Form
     {
         public Form1()
         {
@@ -27,6 +27,20 @@ namespace Reto_1_PQRS
         {
             Ingreso ingresoForm = new Ingreso();
             ingresoForm.Show();
+            this.Hide();
+        }
+
+        private void Btn_consultar_Click(object sender, EventArgs e)
+        {
+            Consultar_Solicitud consultarForm = new Consultar_Solicitud();
+            consultarForm.Show();
+            this.Hide();
+        }
+
+        private void Btn_registrar_Click(object sender, EventArgs e)
+        {
+            Nuevo_PQRSFD nuevoPQRSFDForm = new Nuevo_PQRSFD();
+            nuevoPQRSFDForm.Show();
             this.Hide();
         }
     }
