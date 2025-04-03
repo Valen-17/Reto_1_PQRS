@@ -39,3 +39,9 @@ C:\Users\Daniela\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.exe
 C:\Users\Daniela\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.pdb
 C:\Users\Daniela\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Solicitudes_1.resources
 C:\Users\Daniela\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Solicitudes_3.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Admin.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Consultar_Solicitud.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Estado_Solicitud.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Nuevo_PQRSFD_2.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Solicitudes_1.resources
+C:\Users\Luz\source\repos\Reto_1_PQRS\obj\Debug\Reto_1_PQRS.Solicitudes_3.resources

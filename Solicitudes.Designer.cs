@@ -32,9 +32,9 @@
             this.guna2Shapes1 = new Guna.UI2.WinForms.Guna2Shapes();
             this.guna2Shapes3 = new Guna.UI2.WinForms.Guna2Shapes();
             this.guna2Shapes2 = new Guna.UI2.WinForms.Guna2Shapes();
-            this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.Ingreso_login = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.Btn_Inicio = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.Inicio = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.Ingreso = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2CirclePictureBox2 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2CirclePictureBox3 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2CirclePictureBox4 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
@@ -55,9 +55,11 @@
             this.guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             this.Btn_mostrar = new Guna.UI2.WinForms.Guna2Button();
             this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.btn_back = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Ingreso_login)).BeginInit();
+            this.Btn_next = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.guna2HtmlLabel4 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.Btn_back = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.Btn_Inicio)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Ingreso)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox4)).BeginInit();
@@ -68,7 +70,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.PanelDenuncia.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.btn_back)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Btn_next)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Btn_back)).BeginInit();
             this.SuspendLayout();
             // 
             // guna2Shapes1
@@ -104,35 +107,36 @@
             this.guna2Shapes2.Shape = Guna.UI2.WinForms.Enums.ShapeType.Rectangle;
             this.guna2Shapes2.Zoom = 100;
             // 
-            // guna2CirclePictureBox1
+            // Btn_Inicio
             // 
-            this.guna2CirclePictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2CirclePictureBox1.FillColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.guna2CirclePictureBox1, "guna2CirclePictureBox1");
-            this.guna2CirclePictureBox1.ImageRotate = 0F;
-            this.guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            this.guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox1.TabStop = false;
-            this.guna2CirclePictureBox1.UseTransparentBackground = true;
+            this.Btn_Inicio.BackColor = System.Drawing.Color.Transparent;
+            this.Btn_Inicio.FillColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.Btn_Inicio, "Btn_Inicio");
+            this.Btn_Inicio.ImageRotate = 0F;
+            this.Btn_Inicio.Name = "Btn_Inicio";
+            this.Btn_Inicio.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.Btn_Inicio.TabStop = false;
+            this.Btn_Inicio.UseTransparentBackground = true;
+            this.Btn_Inicio.Click += new System.EventHandler(this.Btn_Inicio_Click);
             // 
-            // guna2HtmlLabel1
+            // Inicio
             // 
-            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(52)))), ((int)(((byte)(61)))));
-            resources.ApplyResources(this.guna2HtmlLabel1, "guna2HtmlLabel1");
-            this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.White;
-            this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
+            this.Inicio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(52)))), ((int)(((byte)(61)))));
+            resources.ApplyResources(this.Inicio, "Inicio");
+            this.Inicio.ForeColor = System.Drawing.Color.White;
+            this.Inicio.Name = "Inicio";
             // 
-            // Ingreso_login
+            // Ingreso
             // 
-            this.Ingreso_login.BackColor = System.Drawing.Color.Transparent;
-            this.Ingreso_login.FillColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.Ingreso_login, "Ingreso_login");
-            this.Ingreso_login.ImageRotate = 0F;
-            this.Ingreso_login.Name = "Ingreso_login";
-            this.Ingreso_login.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.Ingreso_login.TabStop = false;
-            this.Ingreso_login.UseTransparentBackground = true;
-            this.Ingreso_login.Click += new System.EventHandler(this.Ingreso_login_Click);
+            this.Ingreso.BackColor = System.Drawing.Color.Transparent;
+            this.Ingreso.FillColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.Ingreso, "Ingreso");
+            this.Ingreso.ImageRotate = 0F;
+            this.Ingreso.Name = "Ingreso";
+            this.Ingreso.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.Ingreso.TabStop = false;
+            this.Ingreso.UseTransparentBackground = true;
+            this.Ingreso.Click += new System.EventHandler(this.Ingreso_Click);
             // 
             // guna2CirclePictureBox2
             // 
@@ -373,22 +377,41 @@
             this.guna2HtmlLabel3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.guna2HtmlLabel3.Name = "guna2HtmlLabel3";
             // 
-            // btn_back
+            // Btn_next
             // 
-            this.btn_back.FillColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.btn_back, "btn_back");
-            this.btn_back.ImageRotate = 0F;
-            this.btn_back.Name = "btn_back";
-            this.btn_back.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.btn_back.TabStop = false;
-            this.btn_back.Click += new System.EventHandler(this.btn_back_Click);
+            this.Btn_next.FillColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.Btn_next, "Btn_next");
+            this.Btn_next.ImageRotate = 0F;
+            this.Btn_next.Name = "Btn_next";
+            this.Btn_next.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.Btn_next.TabStop = false;
+            this.Btn_next.Click += new System.EventHandler(this.Btn_next_Click);
+            // 
+            // guna2HtmlLabel4
+            // 
+            this.guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.guna2HtmlLabel4, "guna2HtmlLabel4");
+            this.guna2HtmlLabel4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.guna2HtmlLabel4.Name = "guna2HtmlLabel4";
+            // 
+            // Btn_back
+            // 
+            this.Btn_back.FillColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.Btn_back, "Btn_back");
+            this.Btn_back.ImageRotate = 0F;
+            this.Btn_back.Name = "Btn_back";
+            this.Btn_back.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.Btn_back.TabStop = false;
+            this.Btn_back.Click += new System.EventHandler(this.Btn_back_Click_1);
             // 
             // Solicitudes
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.Controls.Add(this.btn_back);
+            this.Controls.Add(this.Btn_back);
+            this.Controls.Add(this.guna2HtmlLabel4);
+            this.Controls.Add(this.Btn_next);
             this.Controls.Add(this.guna2HtmlLabel3);
             this.Controls.Add(this.guna2HtmlLabel2);
             this.Controls.Add(this.Next_button);
@@ -396,17 +419,17 @@
             this.Controls.Add(this.guna2CirclePictureBox4);
             this.Controls.Add(this.guna2CirclePictureBox3);
             this.Controls.Add(this.guna2CirclePictureBox2);
-            this.Controls.Add(this.Ingreso_login);
-            this.Controls.Add(this.guna2HtmlLabel1);
-            this.Controls.Add(this.guna2CirclePictureBox1);
+            this.Controls.Add(this.Ingreso);
+            this.Controls.Add(this.Inicio);
+            this.Controls.Add(this.Btn_Inicio);
             this.Controls.Add(this.guna2Shapes2);
             this.Controls.Add(this.guna2Shapes3);
             this.Controls.Add(this.guna2Shapes1);
             this.Controls.Add(this.guna2Panel2);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Solicitudes";
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Ingreso_login)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Btn_Inicio)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Ingreso)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox4)).EndInit();
@@ -418,7 +441,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.PanelDenuncia.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.btn_back)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Btn_next)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Btn_back)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -429,9 +453,9 @@
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes1;
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes3;
         private Guna.UI2.WinForms.Guna2Shapes guna2Shapes2;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox Ingreso_login;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox Btn_Inicio;
+        private Guna.UI2.WinForms.Guna2HtmlLabel Inicio;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox Ingreso;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox2;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox3;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox4;
@@ -445,7 +469,6 @@
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox2;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox btn_back;
         private Guna.UI2.WinForms.Guna2HtmlLabel DenunciaLabel;
         private Guna.UI2.WinForms.Guna2HtmlLabel PicoYPlacaLabel;
         private Guna.UI2.WinForms.Guna2Panel PanelPicoYPlaca;
@@ -453,5 +476,8 @@
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox4;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox Btn_next;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel4;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox Btn_back;
     }
 }

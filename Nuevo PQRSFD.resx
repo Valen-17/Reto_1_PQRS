@@ -1197,7 +1197,7 @@
         RUVFRUVFRUVFRUXF2uP/B9A3hKeyjXS2AAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="Ingreso_login.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="Ingreso.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAREAAAEUCAYAAAAMWQI9AAAABGdBTUEAALGPC/xhBQAAPTJJREFUeF7t
         nQm0bUlZ342IAyQOUWQMaoxBgxKNJgq4YiKDRmRQgca1VAZl6mZSEIMBJTIpIpPGrIgNDa0LaBKXCGiM
@@ -1464,7 +1464,7 @@
         nrtSmWQRRAAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="guna2CirclePictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="Btn_volver.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAALYAAACcCAYAAADSx1FUAAAABGdBTUEAALGPC/xhBQAAPG1JREFUeF7t
         vQe4ZVWZJtzz/9PBMG3P9LQ9Y/8dHLsdO6gYxtQqgjlgaBMoNGZARe1WQQUEFESSIAZATI0RlJyDiIig
@@ -1731,7 +1731,7 @@
   <data name="guna2HtmlLabel2.Text" xml:space="preserve">
     <value>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
   </data>
-  <data name="Next_button.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="Btn_next.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgCAYAAADbcAZoAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
         DAAACwwBP0AiyAAAZR5JREFUeF7t3Q+UVfV56H3U5m/btM1t2pSQdmrG+XN+z3OG/yAGUIlIDURMMOEa
