@@ -1728,8 +1728,16 @@
         YII=
 </value>
   </data>
+  <data name="checkBox1.Text" xml:space="preserve">
+    <value>Autorizo a la Alcaldía de La Estrella - Antioquia para tratar mis 
+datos personales con el fin de comunicarme cualquier 
+situación o evento relacionado con mi solicitud; en 
+cumplimiento de la Ley 1581 de 2012 y el Decreto1377 de 
+2013 de la República de Colombia.
+</value>
+  </data>
   <data name="guna2HtmlLabel2.Text" xml:space="preserve">
-    <value>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
+    <value>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
   </data>
   <data name="Btn_next.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
