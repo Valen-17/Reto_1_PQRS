@@ -4867,6 +4867,27 @@
         AABJRU5ErkJggg==
 </value>
   </data>
+  <data name="guna2HtmlLabel9.Text" xml:space="preserve">
+    <value>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
+  </data>
+  <data name="guna2HtmlLabel8.Text" xml:space="preserve">
+    <value>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
+  </data>
+  <data name="guna2HtmlLabel6.Text" xml:space="preserve">
+    <value>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
+  </data>
+  <data name="guna2HtmlLabel2.Text" xml:space="preserve">
+    <value>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
+  </data>
+  <data name="guna2HtmlLabel7.Text" xml:space="preserve">
+    <value>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
+  </data>
+  <data name="guna2HtmlLabel4.Text" xml:space="preserve">
+    <value>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
+  </data>
+  <data name="guna2HtmlLabel3.Text" xml:space="preserve">
+    <value>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
+  </data>
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAIsAAACLCAYAAABRGWr/AAAABGdBTUEAALGPC/xhBQAAFq1JREFUeF7t
@@ -14515,7 +14536,7 @@
   <data name="guna2PictureBox3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgCAYAAADbcAZoAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAA/7JJREFUeF7s/V3MbV1e3QdGuYmU5C5Rt2TfBPkijtwJIUCMQ1ykqgQ0dqwmuFpt
+        DAAACwwBP0AiyAAA/7JJREFUeF7s/V3MbV1e3QdGuYmU5C5Rt2TfBPkijtwJIUCMQ1ykqgQ0dqwmuFpt
         t6yybISJW3IEStuRUSRjgm9KkQuXiS0cQCkUUBkRE9m4CowMohH2e1EyCZYtMFQVH0XVW59AfX+f1lh7
         j73GGvM/15pr7b2fc/bLGNJ455z/tfZznuc5551z/tZ/zrn+tX8tiqIoiqIoiqIoiqIoiqIoiqIoiqIo
         iqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIo
@@ -16362,17 +16383,13 @@
 </value>
   </data>
   <data name="guna2TextBox6.DefaultText" xml:space="preserve">
-    <value>LEA ATENTAMENTE LA SIGUIENTE ACLARACIÓN ANTES DE RADICAR SU SOLICITUD: Según el Decreto 000109 del 31 de julio de 2024, en su artículo 4, 
-los vehículos que cumplan los requisitos para ser exentos de pico y placa NO REQUIERE INSCRIPCIÓN PREVIA ante la Secretaría de Movilidad del Municipio de La Estrella, 
-no obstante, al momento de ser requerido por un agente de tránsito usted deberá portar los documentos requeridos para la exención aplicable a su caso y 
-presentárselos al agente que lo requiera, en caso de no portar los documentos requeridos en el Decreto ya mencionado será sancionado.
- SI CUMPLE CON LA NORMATIVA VIGENTE, POR FAVOR NO RADICAR SU SOLICITUD
+    <value>LEA ATENTAMENTE LA SIGUIENTE ACLARACIÓN ANTES DE RADICAR SU SOLICITUD: Según el Decreto 000109 del 31 de julio de 2024, artículo 4, los vehículos que cumplan los requisitos para ser exentos de pico y placa NO REQUIERE INSCRIPCIÓN PREVIA ante la Secretaría de Movilidad, no obstante, al momento de ser requerido por un agente de tránsito usted deberá portar los documentos requeridos para la exención aplicable a su caso y presentárselos al agente que lo requiera, en caso de no portar los documentos requeridos en el Decreto ya mencionado será sancionado.SI CUMPLE CON LA NORMATIVA VIGENTE, POR FAVOR NO RADICAR SU SOLICITUD
 </value>
   </data>
   <data name="guna2PictureBox4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgCAYAAADbcAZoAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAA/7JJREFUeF7s/V3MbV1e3QdGuYmU5C5Rt2TfBPkijtwJIUCMQ1ykqgQ0dqwmuFpt
+        DAAACwwBP0AiyAAA/7JJREFUeF7s/V3MbV1e3QdGuYmU5C5Rt2TfBPkijtwJIUCMQ1ykqgQ0dqwmuFpt
         t6yybISJW3IEStuRUSRjgm9KkQuXiS0cQCkUUBkRE9m4CowMohH2e1EyCZYtMFQVH0XVW59AfX+f1lh7
         j73GGvM/15pr7b2fc/bLGNJ455z/tfZznuc5551z/tZ/zrn+tX8tiqIoiqIoiqIoiqIoiqIoiqIoiqIo
         iqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIoiqIo
@@ -18220,6 +18237,61 @@ presentárselos al agente que lo requiera, en caso de no portar los documentos r
   </data>
   <data name="guna2TextBox8.DefaultText" xml:space="preserve">
     <value>Cuando se pone en conocimiento de la Administración Municipal de La Estrella una conducta presuntamente irregular para que se adelante la correspondiente investigación, para lo cual se deben indicar las circunstancias de tiempo, modo y lugar, con el objeto de que se establezcan responsabilidades.</value>
+  </data>
+  <data name="guna2TextBox20.DefaultText" xml:space="preserve">
+    <value>Alcaldía de La Estrella - Antioquia
+La Estrella - Antioquia
+Dirección: Calle 80 Sur N° 58 - 78 Centro Administrativo Jorge Eliécer Echavarría Henao
+Código Postal: 055460
+Correo Electrónico: contactenos@laestrella.gov.co
+
+
+</value>
+  </data>
+  <data name="guna2PictureBox10.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAARgAAAAkCAYAAABSQSXuAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29m
+        dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAkZSURBVHhe5Z3BkRs5DEUdwoawIex9Lr7M3SE4BIfg
+        DByCQ3AIDmFCcAgOgVvfy5apT6ABgiCl9r4qXkYQmyKIT4Dq1rx7l0Qp5X0p5W/++1UoL69/ef72COrc
+        jraHjB1rQBjLP2wXBX01/aatN+o3PIdKPyva7rGlzfUpdZCfSynfSyk/iw5e/5K5uFYAESkvr9/Ky+t7
+        4bUf5eX14ePniQ0AX3wtpXyILMwRSikf+eKllB9sFwV9Nf1+49cjYE6aPluGfV/negfderVIHFtubFcH
+        fCLnjoD3QZSWLu5RIB5VRIoiMPj7z/Ly+pFf2wlP5iTYFCA2S3akzGBl6ubGTK+pTFFMDGKLbr1aLBob
+        +hwey42660WFhcHi/sDXeATl5fVTFZCjdZNEr399VMnEk5gIdqH0z1QFjPnCdqPU8TLT4o9MiDuNjndR
+        EEt069Vi8djG5qvuRNJCyQAOTV/YHmpJBLFoxcMjMGhvjyiZePKSweaR+pnqpsSEMoIWZaObKpOyM67F
+        QdzSrVeLDWP7ytcUqZP+xu8WOGoxlD9tg4Ccnc8A9L9VZGpJBJFg4fAKDNr2koknroK59zTLDwA2oYDS
+        UK4bvoZSHh2E15FSHr2xnZcaD+yDFW14Luv7GI5dq0l9tHzm63YY4oILuAKs7mRnA9omMhCFKg4sGIdo
+        dGcSJ2KENpYSTsCTBtjmjBqc1hlaqsgo2W94zpTy6MC1HiWUtf6J7f4EpFhkGw81AYHYSGAd6TF94kgs
+        zm6X91C/5pIciQ+sDyYJpSQ62vezsxUIifCeo0GAOmHKhicNsI2XumNL2QU4XxwDZJdJhjiGyqT6lbrE
+        cp8+giyBOagbl7SWZIGuQiAxnWkIZzq+em0CBL+Rhdjp3H/9fDCyn6UH182c3WCbEYwSOBSsEsriG54r
+        ozw6GF6fNatjwuXRs5MtMECZw+9s9wtll5gWl5YqMrLCJeIQhaFsLEusIrBDANuMYojM0NxoKNnw8Mai
+        9MMMl0nK5x/u5yqsEBggbSRsAyPpsAtvvFy6aJQ1pyWRxcq+NdgpgG0iVJHpFoe6Aw2iZB4/2c5C2Pik
+        MQ9lXiflUbr/noWFAmP3q6j58kwjk/oVNIKcA/9oKVkGsp/M7MiCnQLYJopyVgJSDnwFcQDuMkkRKWTB
+        0np1i4OS2g+J1NVwCUEAs19FzYd3mkeyPehtMUsTZ3YMYJsZpAUy841Pi1LeuMsk5f0QRUkg3OWNIlDu
+        918Ryc9sE0HKKNlAclbKAtsBMhMhwI+2pGw5MK6NZ5ymr82OAWwzg1Ieh7/xaVEyEPfmJWRAv96r9OvK
+        QJQNFUz76plZITCKdtyX2Mqt0ikp8kqaBxU5sI+WUhJZGNnT9AOT7BjANjPUsxiJlPM3JVswyySlfLtl
+        P4L4AFMklKBwZ1VXJVtgTm55uM8EpQVwZ/CE0IOK3NJLIouVJRP7BrDNLNLiS/w2KRTQys16t8WrlE9m
+        mSOtd4/gXR3Jx2xzRvNTHLjJTppD0Ge+bNGlOE9GvSuXA/hoS0siC6NkMoNKgp0D2GYWJVhTMkClJDHL
+        JGV3vPk2UiZFx+Jlw6MC4aOL+v6VyHeDsxUGwjbPxEmmkBIQs5yVTGzrgZ0D2GYW5dbvtPlUdjw1a1DK
+        o048RsukaDblZUMQh2Nz8dhkcQFsOfMhdqAITEo6n0UtmboSju08sHMA28yyQWCGAtsqjxo7KfPq7A4U
+        oUtbO4uDGIRjc/HY9F9IYMuZD7EDRWAeWhox2g15bOeBnQPYZpYNAiMdJKuliVUeNXauTAco5VF/ZjDB
+        4iAG4djcMDY5i2GrmQ+xg5NvjrYf7jLGIwVqQJ3BzgFsM8tqgQHKt5VdmTQiGmBAjKTPGD7TkLjgGQz3
+        bzWpJG3p7/6XHHRn8GQ8y9fTjPH8U/jHqtg3gG1mURZfF/wzKPfbdGWStzw68NorwRHyyRWRfMw2Hmo2
+        Cl9K8wm6+2C6C19h4oWfvWzb1pJJK4lqm/q5TXYMYJtZpE0mew14yyRlLOr8eTIe5Run1PLo2ZHinG1G
+        UcQd/BZ4JXUM37exk0ffD2OURGjT88iOAWwzgxKgXeBnYJVJyljU8ujAEiXlMHjaN1dihcAAxae/faY4
+        9TLq/qiSySiJpu/gPWDHALaZQdmFzKCOYJVJyli6codRBKS9KU9K51PuVL4KCwVGykzv+1Z2ANOxz4Rx
+        k1tqyWSURCnPIB2wUwDbRFFKB7DM98Jau2VLwmvAnEvlc/wSSeW1P/aHpTRWCQyQ+r4rsZUdAKpvOveZ
+        OLvJLaNk2lESMewUwDZRlPtClpRHB0qWgixayqTdmZSSpWB3ldZ2up+eHUkE2CaK1Pfd/UXKPQLA7WAP
+        NUVetjsCx3NBoZLJKImmxUuDHQLYJoIS6CA0P14UIcFYpPG414oiJNq3Hf+r8ghIIsA2UaS+uxsYlcNe
+        0H2VGIHu5nQvnChGGTNUMmX2NUozZzfYZhQlmMGWrFUphaS/uceilEKSuKRumldBEgG2iaAlJ2wHw7Pf
+        acXgQqpf+5VOmneIzFTW4SiJlu72gCcNsI2Xuhi6hdZwOh9ZnAhcy7AQKILCLF93z4jkd7YZ5UQz5DOu
+        ugtIO8kB0lCX0NSLIys668/V1wxRkXCIU+qNaBo8YYBtLKpfraAW52EFSrbBDAuBUiYx7qzoTyJbYE7K
+        T6CfcTlEBkC14ExcBL8R0TbPf4BD/1sC9MD4/0jdzi3YHG3L/0M64Imr8JxzO/4THzJHbRG0pJTBIxjj
+        Ch00O4RrOCsaoV6ffbGiDYukEpPcr9b4vzue6YNdZjtFJgr6TblHZJST//DoFZjwsyBRePIWsC1zaTGy
+        jbDgGcK1dFNTgngF3Xq12Dg2X2yfnJ3MoD/WvQnlf1R3DqPXIUrDKXsGPIGJIBC7z70LI9sIC8GJcIWy
+        ohE2BvGw3zaMDYnD8LgwMKRIs4PD+8cvvoj6VXZbMnVja14LP6iYAU9kAlgISHUfKvRAyTamhOBEuMJZ
+        kZeEOPHSrVeLxWPD+d7csUF1HHYH6dRY4jineVhwWjQPTHYOq3+felAxA57UIBAVLIJwZrCC0R+i8qII
+        1/LPvjiIW7r1arFgbEd8q8LyL73Uk35Lby6+AAAAAElFTkSuQmCC
+</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

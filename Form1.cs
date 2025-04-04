@@ -16,13 +16,6 @@ namespace Reto_1_PQRS
         {
             InitializeComponent();
         }
-
-        private void Next_button_Click(object sender, EventArgs e)
-        {
-            Solicitudes solicitudesForm = new Solicitudes();
-            solicitudesForm.Show();
-            this.Hide();
-        }
         private void Ingreso_Click(object sender, EventArgs e)
         {
             Ingreso ingresoForm = new Ingreso();
@@ -42,6 +35,16 @@ namespace Reto_1_PQRS
             Nuevo_PQRSFD nuevoPQRSFDForm = new Nuevo_PQRSFD();
             nuevoPQRSFDForm.Show();
             this.Hide();
+        }
+
+        private void guna2TextBox20_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -23,7 +23,7 @@ namespace Reto_1_PQRS
             Txt_password.ForeColor = Color.Gray;
 
             // Usuario admin
-            usuarios.Add(new Usuario("admin", "admin123", "admin"));
+            usuarios.Add(new Usuario("1492", "admin123", "admin"));
         }
         private void Txt_username_Enter(object sender, EventArgs e)
         {
@@ -71,7 +71,7 @@ namespace Reto_1_PQRS
                 MessageBox.Show($"Bienvenido {usuario.Username}");
                 if (usuario.Rol == "admin")
                 {
-                    FormAdmin adminForm = new FormAdmin();
+                    Admin adminForm = new Admin();
                     adminForm.Show();
                     this.Hide();
                 }

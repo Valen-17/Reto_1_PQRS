@@ -16,5 +16,19 @@ namespace Reto_1_PQRS
         {
             InitializeComponent();
         }
+
+        private void Btn_Inicio_Click(object sender, EventArgs e)
+        {
+            Form1 form1Form = new Form1();
+            form1Form.Show();
+            this.Hide();
+        }
+
+        private void Ingreso_Click(object sender, EventArgs e)
+        {
+            Ingreso ingresoForm = new Ingreso();
+            ingresoForm.Show();
+            this.Hide();
+        }
     }
 }

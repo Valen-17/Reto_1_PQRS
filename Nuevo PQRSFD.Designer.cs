@@ -40,61 +40,62 @@
             this.guna2Shapes3 = new Guna.UI2.WinForms.Guna2Shapes();
             this.guna2Shapes1 = new Guna.UI2.WinForms.Guna2Shapes();
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
-            this.button1 = new System.Windows.Forms.Button();
+            this.cmbMedioRespuesta = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.cmbTipoSolicitud = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.cmbDepartamentos = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.cmbCiudades = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.cmbPaises = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.Btn_Enviar = new System.Windows.Forms.Button();
             this.guna2PictureBox11 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2Button5 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2PictureBox12 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2PictureBox13 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
-            this.guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2HtmlLabel13 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2PictureBox14 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2HtmlLabel14 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2TextBox13 = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel15 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.guna2TextBox14 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.chkAutorizacion = new System.Windows.Forms.CheckBox();
+            this.Txt_Descripcion = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel16 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel17 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel18 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2PictureBox15 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2PictureBox16 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox16 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Txt_BarrioVereda = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2PictureBox17 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox17 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Txt_CodigoPostal = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel19 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel20 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel21 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel22 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2PictureBox18 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox18 = new Guna.UI2.WinForms.Guna2TextBox();
-            this.guna2ComboBox3 = new Guna.UI2.WinForms.Guna2ComboBox();
-            this.guna2ComboBox2 = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.Txt_Direccion = new Guna.UI2.WinForms.Guna2TextBox();
+            this.cmbTipoIdentificacion = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.cmbTipoSolicitante = new Guna.UI2.WinForms.Guna2ComboBox();
             this.guna2ComboBox1 = new Guna.UI2.WinForms.Guna2ComboBox();
             this.guna2PictureBox9 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox11 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Txt_TelefonoCelular = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2PictureBox10 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox12 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Txt_TelefonoFijo = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel11 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel12 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2PictureBox7 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox9 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Txt_confirmacion = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2PictureBox8 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox10 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Txt_Correo = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel9 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2PictureBox5 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2PictureBox6 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox8 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Txt_apellidos = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2PictureBox4 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox6 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Txt_Nombres = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel8 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel7 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel6 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel5 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2TextBox5 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.Txt_Identificacion = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2HtmlLabel4 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -103,9 +104,6 @@
             this.guna2TextBox3 = new Guna.UI2.WinForms.Guna2TextBox();
             this.Btn_next = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.Btn_Nueva_Solicitud = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.cmbPaises = new Guna.UI2.WinForms.Guna2ComboBox();
-            this.cmbCiudades = new Guna.UI2.WinForms.Guna2ComboBox();
-            this.cmbDepartamentos = new Guna.UI2.WinForms.Guna2ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox3)).BeginInit();
@@ -217,12 +215,13 @@
             // 
             // Btn_Inicio
             // 
+            this.Btn_Inicio.AutoSize = false;
             this.Btn_Inicio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(52)))), ((int)(((byte)(61)))));
             this.Btn_Inicio.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F);
             this.Btn_Inicio.ForeColor = System.Drawing.Color.White;
             this.Btn_Inicio.Location = new System.Drawing.Point(118, 37);
             this.Btn_Inicio.Name = "Btn_Inicio";
-            this.Btn_Inicio.Size = new System.Drawing.Size(44, 24);
+            this.Btn_Inicio.Size = new System.Drawing.Size(110, 24);
             this.Btn_Inicio.TabIndex = 24;
             this.Btn_Inicio.Text = "Inicio";
             this.Btn_Inicio.Click += new System.EventHandler(this.Btn_Inicio_Click);
@@ -289,64 +288,62 @@
             // guna2Panel2
             // 
             this.guna2Panel2.BackColor = System.Drawing.Color.White;
+            this.guna2Panel2.Controls.Add(this.cmbMedioRespuesta);
+            this.guna2Panel2.Controls.Add(this.cmbTipoSolicitud);
             this.guna2Panel2.Controls.Add(this.cmbDepartamentos);
             this.guna2Panel2.Controls.Add(this.cmbCiudades);
             this.guna2Panel2.Controls.Add(this.cmbPaises);
-            this.guna2Panel2.Controls.Add(this.button1);
+            this.guna2Panel2.Controls.Add(this.Btn_Enviar);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox11);
-            this.guna2Panel2.Controls.Add(this.guna2Button5);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox12);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox13);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox2);
-            this.guna2Panel2.Controls.Add(this.guna2Button4);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel13);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox14);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel14);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox13);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel15);
-            this.guna2Panel2.Controls.Add(this.checkBox1);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox14);
+            this.guna2Panel2.Controls.Add(this.chkAutorizacion);
+            this.guna2Panel2.Controls.Add(this.Txt_Descripcion);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel16);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel17);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel18);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox15);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox16);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox16);
+            this.guna2Panel2.Controls.Add(this.Txt_BarrioVereda);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox17);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox17);
+            this.guna2Panel2.Controls.Add(this.Txt_CodigoPostal);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel19);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel20);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel21);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel22);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox18);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox18);
-            this.guna2Panel2.Controls.Add(this.guna2ComboBox3);
-            this.guna2Panel2.Controls.Add(this.guna2ComboBox2);
+            this.guna2Panel2.Controls.Add(this.Txt_Direccion);
+            this.guna2Panel2.Controls.Add(this.cmbTipoIdentificacion);
+            this.guna2Panel2.Controls.Add(this.cmbTipoSolicitante);
             this.guna2Panel2.Controls.Add(this.guna2ComboBox1);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox9);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox11);
+            this.guna2Panel2.Controls.Add(this.Txt_TelefonoCelular);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox10);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox12);
+            this.guna2Panel2.Controls.Add(this.Txt_TelefonoFijo);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel11);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel12);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox7);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox9);
+            this.guna2Panel2.Controls.Add(this.Txt_confirmacion);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox8);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox10);
+            this.guna2Panel2.Controls.Add(this.Txt_Correo);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel1);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel9);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox5);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox2);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox6);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox8);
+            this.guna2Panel2.Controls.Add(this.Txt_apellidos);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox4);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox6);
+            this.guna2Panel2.Controls.Add(this.Txt_Nombres);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel8);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel7);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel6);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel5);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox3);
-            this.guna2Panel2.Controls.Add(this.guna2TextBox5);
+            this.guna2Panel2.Controls.Add(this.Txt_Identificacion);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox1);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel4);
             this.guna2Panel2.Controls.Add(this.guna2HtmlLabel3);
@@ -359,16 +356,169 @@
             this.guna2Panel2.TabIndex = 30;
             this.guna2Panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel2_Paint);
             // 
-            // button1
+            // cmbMedioRespuesta
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(332, 1204);
-            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(282, 76);
-            this.button1.TabIndex = 119;
-            this.button1.Text = "Enviar Solicitud";
-            this.button1.UseVisualStyleBackColor = true;
+            this.cmbMedioRespuesta.BackColor = System.Drawing.Color.Transparent;
+            this.cmbMedioRespuesta.BorderColor = System.Drawing.Color.Silver;
+            this.cmbMedioRespuesta.BorderThickness = 2;
+            this.cmbMedioRespuesta.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.cmbMedioRespuesta.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbMedioRespuesta.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbMedioRespuesta.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbMedioRespuesta.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.cmbMedioRespuesta.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.cmbMedioRespuesta.ItemHeight = 35;
+            this.cmbMedioRespuesta.Items.AddRange(new object[] {
+            "Seleccione el Medio de Respuesta",
+            "Correo electrónico ",
+            "Correo certificado ",
+            "Telefónicamente ",
+            "Entrega física (Personalmente)"});
+            this.cmbMedioRespuesta.Location = new System.Drawing.Point(554, 983);
+            this.cmbMedioRespuesta.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.cmbMedioRespuesta.Name = "cmbMedioRespuesta";
+            this.cmbMedioRespuesta.Size = new System.Drawing.Size(345, 41);
+            this.cmbMedioRespuesta.StartIndex = 0;
+            this.cmbMedioRespuesta.TabIndex = 123;
+            // 
+            // cmbTipoSolicitud
+            // 
+            this.cmbTipoSolicitud.BackColor = System.Drawing.Color.Transparent;
+            this.cmbTipoSolicitud.BorderColor = System.Drawing.Color.Silver;
+            this.cmbTipoSolicitud.BorderThickness = 2;
+            this.cmbTipoSolicitud.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.cmbTipoSolicitud.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbTipoSolicitud.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbTipoSolicitud.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbTipoSolicitud.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.cmbTipoSolicitud.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.cmbTipoSolicitud.ItemHeight = 35;
+            this.cmbTipoSolicitud.Items.AddRange(new object[] {
+            "Tipo de Solicitud",
+            "Denuncia",
+            "Exoneración de Pico y Placa",
+            "Felicitación",
+            "Petición de información",
+            "Queja",
+            "Reclamo",
+            "Sugerencia"});
+            this.cmbTipoSolicitud.Location = new System.Drawing.Point(106, 983);
+            this.cmbTipoSolicitud.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.cmbTipoSolicitud.Name = "cmbTipoSolicitud";
+            this.cmbTipoSolicitud.Size = new System.Drawing.Size(345, 41);
+            this.cmbTipoSolicitud.StartIndex = 0;
+            this.cmbTipoSolicitud.TabIndex = 122;
+            // 
+            // cmbDepartamentos
+            // 
+            this.cmbDepartamentos.BackColor = System.Drawing.Color.Transparent;
+            this.cmbDepartamentos.BorderColor = System.Drawing.Color.Silver;
+            this.cmbDepartamentos.BorderThickness = 2;
+            this.cmbDepartamentos.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.cmbDepartamentos.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbDepartamentos.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbDepartamentos.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbDepartamentos.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.cmbDepartamentos.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.cmbDepartamentos.ItemHeight = 35;
+            this.cmbDepartamentos.Items.AddRange(new object[] {
+            "Seleccione el Departamento",
+            "Medellín"});
+            this.cmbDepartamentos.Location = new System.Drawing.Point(551, 693);
+            this.cmbDepartamentos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.cmbDepartamentos.Name = "cmbDepartamentos";
+            this.cmbDepartamentos.Size = new System.Drawing.Size(345, 41);
+            this.cmbDepartamentos.StartIndex = 0;
+            this.cmbDepartamentos.TabIndex = 121;
+            this.cmbDepartamentos.SelectedIndexChanged += new System.EventHandler(this.cmbDepartamentos_SelectedIndexChanged_1);
+            // 
+            // cmbCiudades
+            // 
+            this.cmbCiudades.BackColor = System.Drawing.Color.Transparent;
+            this.cmbCiudades.BorderColor = System.Drawing.Color.Silver;
+            this.cmbCiudades.BorderThickness = 2;
+            this.cmbCiudades.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.cmbCiudades.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbCiudades.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbCiudades.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbCiudades.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.cmbCiudades.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.cmbCiudades.ItemHeight = 35;
+            this.cmbCiudades.Items.AddRange(new object[] {
+            "Seleccione la Ciudad",
+            "Medellín"});
+            this.cmbCiudades.Location = new System.Drawing.Point(105, 789);
+            this.cmbCiudades.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.cmbCiudades.Name = "cmbCiudades";
+            this.cmbCiudades.Size = new System.Drawing.Size(345, 41);
+            this.cmbCiudades.StartIndex = 0;
+            this.cmbCiudades.TabIndex = 120;
+            // 
+            // cmbPaises
+            // 
+            this.cmbPaises.BackColor = System.Drawing.Color.Transparent;
+            this.cmbPaises.BorderColor = System.Drawing.Color.Silver;
+            this.cmbPaises.BorderThickness = 2;
+            this.cmbPaises.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.cmbPaises.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbPaises.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbPaises.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbPaises.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.cmbPaises.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.cmbPaises.ItemHeight = 35;
+            this.cmbPaises.Items.AddRange(new object[] {
+            "Seleccione el País",
+            "Colombia",
+            "Estados Unidos",
+            "",
+            "Canadá",
+            "",
+            "México",
+            "",
+            "Brasil",
+            "",
+            "Argentina",
+            "Reino Unido",
+            "",
+            "Francia",
+            "",
+            "Alemania",
+            "",
+            "Italia",
+            "",
+            "España",
+            "",
+            "Rusia",
+            "",
+            "China",
+            "",
+            "Japón",
+            "",
+            "India",
+            "",
+            "Corea del Sur",
+            "",
+            "Australia",
+            "",
+            "Arabia Saudita"});
+            this.cmbPaises.Location = new System.Drawing.Point(108, 694);
+            this.cmbPaises.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.cmbPaises.Name = "cmbPaises";
+            this.cmbPaises.Size = new System.Drawing.Size(345, 41);
+            this.cmbPaises.StartIndex = 0;
+            this.cmbPaises.TabIndex = 82;
+            // 
+            // Btn_Enviar
+            // 
+            this.Btn_Enviar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Btn_Enviar.Location = new System.Drawing.Point(332, 1204);
+            this.Btn_Enviar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Btn_Enviar.Name = "Btn_Enviar";
+            this.Btn_Enviar.Size = new System.Drawing.Size(282, 76);
+            this.Btn_Enviar.TabIndex = 119;
+            this.Btn_Enviar.Text = "Enviar Solicitud";
+            this.Btn_Enviar.UseVisualStyleBackColor = true;
+            this.Btn_Enviar.Click += new System.EventHandler(this.Btn_Enviar_Click);
             // 
             // guna2PictureBox11
             // 
@@ -380,21 +530,6 @@
             this.guna2PictureBox11.Size = new System.Drawing.Size(49, 45);
             this.guna2PictureBox11.TabIndex = 116;
             this.guna2PictureBox11.TabStop = false;
-            // 
-            // guna2Button5
-            // 
-            this.guna2Button5.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button5.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button5.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button5.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button5.FillColor = System.Drawing.Color.Silver;
-            this.guna2Button5.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button5.ForeColor = System.Drawing.Color.White;
-            this.guna2Button5.Location = new System.Drawing.Point(412, 983);
-            this.guna2Button5.Name = "guna2Button5";
-            this.guna2Button5.Size = new System.Drawing.Size(40, 45);
-            this.guna2Button5.TabIndex = 117;
-            this.guna2Button5.Text = "v";
             // 
             // guna2PictureBox12
             // 
@@ -418,53 +553,15 @@
             this.guna2PictureBox13.TabIndex = 110;
             this.guna2PictureBox13.TabStop = false;
             // 
-            // guna2TextBox2
-            // 
-            this.guna2TextBox2.Animated = true;
-            this.guna2TextBox2.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox2.BorderThickness = 2;
-            this.guna2TextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox2.DefaultText = "Seleccione el tipo de solicitud";
-            this.guna2TextBox2.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox2.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox2.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox2.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox2.Location = new System.Drawing.Point(106, 983);
-            this.guna2TextBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox2.Name = "guna2TextBox2";
-            this.guna2TextBox2.PlaceholderForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox2.PlaceholderText = "";
-            this.guna2TextBox2.SelectedText = "";
-            this.guna2TextBox2.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox2.TabIndex = 113;
-            // 
-            // guna2Button4
-            // 
-            this.guna2Button4.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button4.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button4.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button4.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button4.FillColor = System.Drawing.Color.Silver;
-            this.guna2Button4.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button4.ForeColor = System.Drawing.Color.White;
-            this.guna2Button4.Location = new System.Drawing.Point(860, 983);
-            this.guna2Button4.Name = "guna2Button4";
-            this.guna2Button4.Size = new System.Drawing.Size(40, 45);
-            this.guna2Button4.TabIndex = 111;
-            this.guna2Button4.Text = "v";
-            // 
             // guna2HtmlLabel13
             // 
+            this.guna2HtmlLabel13.AutoSize = false;
             this.guna2HtmlLabel13.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel13.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel13.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel13.Location = new System.Drawing.Point(502, 659);
             this.guna2HtmlLabel13.Name = "guna2HtmlLabel13";
-            this.guna2HtmlLabel13.Size = new System.Drawing.Size(106, 22);
+            this.guna2HtmlLabel13.Size = new System.Drawing.Size(397, 22);
             this.guna2HtmlLabel13.TabIndex = 105;
             this.guna2HtmlLabel13.Text = "Departamento";
             // 
@@ -481,115 +578,96 @@
             // 
             // guna2HtmlLabel14
             // 
+            this.guna2HtmlLabel14.AutoSize = false;
             this.guna2HtmlLabel14.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel14.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel14.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel14.Location = new System.Drawing.Point(60, 659);
             this.guna2HtmlLabel14.Name = "guna2HtmlLabel14";
-            this.guna2HtmlLabel14.Size = new System.Drawing.Size(33, 22);
+            this.guna2HtmlLabel14.Size = new System.Drawing.Size(379, 22);
             this.guna2HtmlLabel14.TabIndex = 104;
             this.guna2HtmlLabel14.Text = "País";
             // 
-            // guna2TextBox13
-            // 
-            this.guna2TextBox13.Animated = true;
-            this.guna2TextBox13.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox13.BorderThickness = 2;
-            this.guna2TextBox13.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox13.DefaultText = "Seleccione su medio de respuesta";
-            this.guna2TextBox13.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox13.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox13.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox13.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox13.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox13.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox13.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox13.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox13.Location = new System.Drawing.Point(555, 983);
-            this.guna2TextBox13.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox13.Name = "guna2TextBox13";
-            this.guna2TextBox13.PlaceholderForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox13.PlaceholderText = "";
-            this.guna2TextBox13.SelectedText = "";
-            this.guna2TextBox13.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox13.TabIndex = 107;
-            // 
             // guna2HtmlLabel15
             // 
+            this.guna2HtmlLabel15.AutoSize = false;
             this.guna2HtmlLabel15.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel15.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel15.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel15.Location = new System.Drawing.Point(506, 1043);
             this.guna2HtmlLabel15.Name = "guna2HtmlLabel15";
-            this.guna2HtmlLabel15.Size = new System.Drawing.Size(259, 22);
+            this.guna2HtmlLabel15.Size = new System.Drawing.Size(378, 22);
             this.guna2HtmlLabel15.TabIndex = 106;
             this.guna2HtmlLabel15.Text = "(*) Autorización de datos personales";
             // 
-            // checkBox1
+            // chkAutorizacion
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(506, 1077);
-            this.checkBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(396, 84);
-            this.checkBox1.TabIndex = 103;
-            this.checkBox1.Text = resources.GetString("checkBox1.Text");
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.chkAutorizacion.Location = new System.Drawing.Point(505, 1067);
+            this.chkAutorizacion.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.chkAutorizacion.Name = "chkAutorizacion";
+            this.chkAutorizacion.Size = new System.Drawing.Size(423, 127);
+            this.chkAutorizacion.TabIndex = 103;
+            this.chkAutorizacion.Text = resources.GetString("chkAutorizacion.Text");
+            this.chkAutorizacion.UseVisualStyleBackColor = true;
             // 
-            // guna2TextBox14
+            // Txt_Descripcion
             // 
-            this.guna2TextBox14.Animated = true;
-            this.guna2TextBox14.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox14.BorderThickness = 2;
-            this.guna2TextBox14.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox14.DefaultText = "Dijite aquí todo el contenido de su solicitud";
-            this.guna2TextBox14.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox14.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox14.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox14.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox14.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox14.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox14.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox14.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox14.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox14.Location = new System.Drawing.Point(54, 1077);
-            this.guna2TextBox14.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox14.Name = "guna2TextBox14";
-            this.guna2TextBox14.PlaceholderText = "";
-            this.guna2TextBox14.SelectedText = "";
-            this.guna2TextBox14.Size = new System.Drawing.Size(395, 83);
-            this.guna2TextBox14.TabIndex = 102;
+            this.Txt_Descripcion.Animated = true;
+            this.Txt_Descripcion.AutoScroll = true;
+            this.Txt_Descripcion.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_Descripcion.BorderThickness = 2;
+            this.Txt_Descripcion.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_Descripcion.DefaultText = "Dijite aquí todo el contenido de su solicitud";
+            this.Txt_Descripcion.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_Descripcion.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_Descripcion.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Descripcion.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Descripcion.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_Descripcion.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Descripcion.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold);
+            this.Txt_Descripcion.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_Descripcion.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Descripcion.Location = new System.Drawing.Point(54, 1077);
+            this.Txt_Descripcion.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_Descripcion.Name = "Txt_Descripcion";
+            this.Txt_Descripcion.PlaceholderText = "";
+            this.Txt_Descripcion.SelectedText = "";
+            this.Txt_Descripcion.Size = new System.Drawing.Size(395, 100);
+            this.Txt_Descripcion.TabIndex = 102;
             // 
             // guna2HtmlLabel16
             // 
+            this.guna2HtmlLabel16.AutoSize = false;
             this.guna2HtmlLabel16.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel16.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel16.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel16.Location = new System.Drawing.Point(54, 1043);
             this.guna2HtmlLabel16.Name = "guna2HtmlLabel16";
-            this.guna2HtmlLabel16.Size = new System.Drawing.Size(106, 22);
+            this.guna2HtmlLabel16.Size = new System.Drawing.Size(385, 22);
             this.guna2HtmlLabel16.TabIndex = 101;
             this.guna2HtmlLabel16.Text = "(*) Descripción";
             // 
             // guna2HtmlLabel17
             // 
+            this.guna2HtmlLabel17.AutoSize = false;
             this.guna2HtmlLabel17.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel17.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel17.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel17.Location = new System.Drawing.Point(503, 948);
             this.guna2HtmlLabel17.Name = "guna2HtmlLabel17";
-            this.guna2HtmlLabel17.Size = new System.Drawing.Size(170, 22);
+            this.guna2HtmlLabel17.Size = new System.Drawing.Size(385, 22);
             this.guna2HtmlLabel17.TabIndex = 100;
             this.guna2HtmlLabel17.Text = "(*) Medio de Respuesta";
             // 
             // guna2HtmlLabel18
             // 
+            this.guna2HtmlLabel18.AutoSize = false;
             this.guna2HtmlLabel18.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel18.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel18.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel18.Location = new System.Drawing.Point(54, 948);
             this.guna2HtmlLabel18.Name = "guna2HtmlLabel18";
-            this.guna2HtmlLabel18.Size = new System.Drawing.Size(139, 22);
+            this.guna2HtmlLabel18.Size = new System.Drawing.Size(385, 22);
             this.guna2HtmlLabel18.TabIndex = 99;
             this.guna2HtmlLabel18.Text = "(*) Tipo de Solicitud";
             // 
@@ -615,29 +693,29 @@
             this.guna2PictureBox16.TabIndex = 95;
             this.guna2PictureBox16.TabStop = false;
             // 
-            // guna2TextBox16
+            // Txt_BarrioVereda
             // 
-            this.guna2TextBox16.Animated = true;
-            this.guna2TextBox16.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox16.BorderThickness = 2;
-            this.guna2TextBox16.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox16.DefaultText = "Digite su barrio o vereda";
-            this.guna2TextBox16.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox16.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox16.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox16.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox16.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox16.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox16.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox16.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox16.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox16.Location = new System.Drawing.Point(555, 888);
-            this.guna2TextBox16.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox16.Name = "guna2TextBox16";
-            this.guna2TextBox16.PlaceholderText = "";
-            this.guna2TextBox16.SelectedText = "";
-            this.guna2TextBox16.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox16.TabIndex = 94;
+            this.Txt_BarrioVereda.Animated = true;
+            this.Txt_BarrioVereda.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_BarrioVereda.BorderThickness = 2;
+            this.Txt_BarrioVereda.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_BarrioVereda.DefaultText = "Digite su barrio o vereda";
+            this.Txt_BarrioVereda.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_BarrioVereda.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_BarrioVereda.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_BarrioVereda.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_BarrioVereda.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_BarrioVereda.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_BarrioVereda.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_BarrioVereda.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_BarrioVereda.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_BarrioVereda.Location = new System.Drawing.Point(555, 888);
+            this.Txt_BarrioVereda.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_BarrioVereda.Name = "Txt_BarrioVereda";
+            this.Txt_BarrioVereda.PlaceholderText = "";
+            this.Txt_BarrioVereda.SelectedText = "";
+            this.Txt_BarrioVereda.Size = new System.Drawing.Size(346, 45);
+            this.Txt_BarrioVereda.TabIndex = 94;
             // 
             // guna2PictureBox17
             // 
@@ -650,71 +728,75 @@
             this.guna2PictureBox17.TabIndex = 93;
             this.guna2PictureBox17.TabStop = false;
             // 
-            // guna2TextBox17
+            // Txt_CodigoPostal
             // 
-            this.guna2TextBox17.Animated = true;
-            this.guna2TextBox17.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox17.BorderThickness = 2;
-            this.guna2TextBox17.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox17.DefaultText = "Digite su código postal";
-            this.guna2TextBox17.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox17.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox17.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox17.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox17.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox17.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox17.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox17.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox17.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox17.Location = new System.Drawing.Point(106, 888);
-            this.guna2TextBox17.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox17.Name = "guna2TextBox17";
-            this.guna2TextBox17.PlaceholderText = "";
-            this.guna2TextBox17.SelectedText = "";
-            this.guna2TextBox17.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox17.TabIndex = 92;
+            this.Txt_CodigoPostal.Animated = true;
+            this.Txt_CodigoPostal.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_CodigoPostal.BorderThickness = 2;
+            this.Txt_CodigoPostal.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_CodigoPostal.DefaultText = "Digite su código postal";
+            this.Txt_CodigoPostal.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_CodigoPostal.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_CodigoPostal.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_CodigoPostal.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_CodigoPostal.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_CodigoPostal.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_CodigoPostal.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_CodigoPostal.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_CodigoPostal.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_CodigoPostal.Location = new System.Drawing.Point(106, 888);
+            this.Txt_CodigoPostal.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_CodigoPostal.Name = "Txt_CodigoPostal";
+            this.Txt_CodigoPostal.PlaceholderText = "";
+            this.Txt_CodigoPostal.SelectedText = "";
+            this.Txt_CodigoPostal.Size = new System.Drawing.Size(346, 45);
+            this.Txt_CodigoPostal.TabIndex = 92;
             // 
             // guna2HtmlLabel19
             // 
+            this.guna2HtmlLabel19.AutoSize = false;
             this.guna2HtmlLabel19.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel19.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel19.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel19.Location = new System.Drawing.Point(506, 854);
             this.guna2HtmlLabel19.Name = "guna2HtmlLabel19";
-            this.guna2HtmlLabel19.Size = new System.Drawing.Size(114, 22);
+            this.guna2HtmlLabel19.Size = new System.Drawing.Size(393, 22);
             this.guna2HtmlLabel19.TabIndex = 91;
             this.guna2HtmlLabel19.Text = "Barrio o Vereda";
             // 
             // guna2HtmlLabel20
             // 
+            this.guna2HtmlLabel20.AutoSize = false;
             this.guna2HtmlLabel20.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel20.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel20.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel20.Location = new System.Drawing.Point(503, 756);
             this.guna2HtmlLabel20.Name = "guna2HtmlLabel20";
-            this.guna2HtmlLabel20.Size = new System.Drawing.Size(69, 22);
+            this.guna2HtmlLabel20.Size = new System.Drawing.Size(396, 22);
             this.guna2HtmlLabel20.TabIndex = 90;
             this.guna2HtmlLabel20.Text = "Dirección";
             // 
             // guna2HtmlLabel21
             // 
+            this.guna2HtmlLabel21.AutoSize = false;
             this.guna2HtmlLabel21.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel21.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel21.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel21.Location = new System.Drawing.Point(57, 854);
             this.guna2HtmlLabel21.Name = "guna2HtmlLabel21";
-            this.guna2HtmlLabel21.Size = new System.Drawing.Size(101, 22);
+            this.guna2HtmlLabel21.Size = new System.Drawing.Size(400, 22);
             this.guna2HtmlLabel21.TabIndex = 89;
             this.guna2HtmlLabel21.Text = "Código Postal";
             // 
             // guna2HtmlLabel22
             // 
+            this.guna2HtmlLabel22.AutoSize = false;
             this.guna2HtmlLabel22.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel22.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel22.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel22.Location = new System.Drawing.Point(54, 757);
             this.guna2HtmlLabel22.Name = "guna2HtmlLabel22";
-            this.guna2HtmlLabel22.Size = new System.Drawing.Size(53, 22);
+            this.guna2HtmlLabel22.Size = new System.Drawing.Size(403, 22);
             this.guna2HtmlLabel22.TabIndex = 88;
             this.guna2HtmlLabel22.Text = "Ciudad ";
             // 
@@ -729,88 +811,94 @@
             this.guna2PictureBox18.TabIndex = 87;
             this.guna2PictureBox18.TabStop = false;
             // 
-            // guna2TextBox18
+            // Txt_Direccion
             // 
-            this.guna2TextBox18.Animated = true;
-            this.guna2TextBox18.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox18.BorderThickness = 2;
-            this.guna2TextBox18.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox18.DefaultText = "Digite su dirección";
-            this.guna2TextBox18.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox18.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox18.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox18.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox18.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox18.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox18.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox18.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox18.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox18.Location = new System.Drawing.Point(552, 788);
-            this.guna2TextBox18.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox18.Name = "guna2TextBox18";
-            this.guna2TextBox18.PlaceholderText = "";
-            this.guna2TextBox18.SelectedText = "";
-            this.guna2TextBox18.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox18.TabIndex = 86;
+            this.Txt_Direccion.Animated = true;
+            this.Txt_Direccion.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_Direccion.BorderThickness = 2;
+            this.Txt_Direccion.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_Direccion.DefaultText = "Digite su dirección";
+            this.Txt_Direccion.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_Direccion.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_Direccion.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Direccion.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Direccion.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_Direccion.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Direccion.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_Direccion.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_Direccion.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Direccion.Location = new System.Drawing.Point(552, 788);
+            this.Txt_Direccion.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_Direccion.Name = "Txt_Direccion";
+            this.Txt_Direccion.PlaceholderText = "";
+            this.Txt_Direccion.SelectedText = "";
+            this.Txt_Direccion.Size = new System.Drawing.Size(346, 45);
+            this.Txt_Direccion.TabIndex = 86;
             // 
-            // guna2ComboBox3
+            // cmbTipoIdentificacion
             // 
-            this.guna2ComboBox3.BackColor = System.Drawing.Color.Transparent;
-            this.guna2ComboBox3.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.guna2ComboBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.guna2ComboBox3.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2ComboBox3.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2ComboBox3.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.guna2ComboBox3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
-            this.guna2ComboBox3.ItemHeight = 30;
-            this.guna2ComboBox3.Items.AddRange(new object[] {
+            this.cmbTipoIdentificacion.BackColor = System.Drawing.Color.Transparent;
+            this.cmbTipoIdentificacion.BorderColor = System.Drawing.Color.Silver;
+            this.cmbTipoIdentificacion.BorderThickness = 2;
+            this.cmbTipoIdentificacion.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.cmbTipoIdentificacion.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbTipoIdentificacion.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbTipoIdentificacion.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbTipoIdentificacion.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.cmbTipoIdentificacion.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.cmbTipoIdentificacion.ItemHeight = 35;
+            this.cmbTipoIdentificacion.Items.AddRange(new object[] {
             "Selecciona tipo de identificación ",
             "C.C ",
             "NIT ",
             "Pasaporte ",
             "Registro Civil ",
             "T.I"});
-            this.guna2ComboBox3.Location = new System.Drawing.Point(554, 327);
-            this.guna2ComboBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.guna2ComboBox3.Name = "guna2ComboBox3";
-            this.guna2ComboBox3.Size = new System.Drawing.Size(345, 36);
-            this.guna2ComboBox3.StartIndex = 0;
-            this.guna2ComboBox3.TabIndex = 81;
+            this.cmbTipoIdentificacion.Location = new System.Drawing.Point(554, 318);
+            this.cmbTipoIdentificacion.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.cmbTipoIdentificacion.Name = "cmbTipoIdentificacion";
+            this.cmbTipoIdentificacion.Size = new System.Drawing.Size(345, 41);
+            this.cmbTipoIdentificacion.StartIndex = 0;
+            this.cmbTipoIdentificacion.TabIndex = 81;
             // 
-            // guna2ComboBox2
+            // cmbTipoSolicitante
             // 
-            this.guna2ComboBox2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2ComboBox2.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.guna2ComboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.guna2ComboBox2.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2ComboBox2.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2ComboBox2.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.guna2ComboBox2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
-            this.guna2ComboBox2.ItemHeight = 30;
-            this.guna2ComboBox2.Items.AddRange(new object[] {
+            this.cmbTipoSolicitante.BackColor = System.Drawing.Color.Transparent;
+            this.cmbTipoSolicitante.BorderColor = System.Drawing.Color.Silver;
+            this.cmbTipoSolicitante.BorderThickness = 2;
+            this.cmbTipoSolicitante.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.cmbTipoSolicitante.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbTipoSolicitante.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbTipoSolicitante.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cmbTipoSolicitante.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.cmbTipoSolicitante.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.cmbTipoSolicitante.ItemHeight = 35;
+            this.cmbTipoSolicitante.Items.AddRange(new object[] {
             "Seleccione el tipo de solicitante ",
             "Anónimo ",
             "Apoderado ",
             "Niños, Niñas y Adolescentes ",
             "Persona Jurídica ",
             "Persona Natural"});
-            this.guna2ComboBox2.Location = new System.Drawing.Point(111, 230);
-            this.guna2ComboBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.guna2ComboBox2.Name = "guna2ComboBox2";
-            this.guna2ComboBox2.Size = new System.Drawing.Size(346, 36);
-            this.guna2ComboBox2.StartIndex = 0;
-            this.guna2ComboBox2.TabIndex = 80;
+            this.cmbTipoSolicitante.Location = new System.Drawing.Point(111, 222);
+            this.cmbTipoSolicitante.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.cmbTipoSolicitante.Name = "cmbTipoSolicitante";
+            this.cmbTipoSolicitante.Size = new System.Drawing.Size(346, 41);
+            this.cmbTipoSolicitante.StartIndex = 0;
+            this.cmbTipoSolicitante.TabIndex = 80;
             // 
             // guna2ComboBox1
             // 
             this.guna2ComboBox1.BackColor = System.Drawing.Color.Transparent;
+            this.guna2ComboBox1.BorderColor = System.Drawing.Color.Silver;
+            this.guna2ComboBox1.BorderThickness = 2;
             this.guna2ComboBox1.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
             this.guna2ComboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.guna2ComboBox1.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.guna2ComboBox1.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.guna2ComboBox1.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.guna2ComboBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
-            this.guna2ComboBox1.ItemHeight = 30;
+            this.guna2ComboBox1.ItemHeight = 38;
             this.guna2ComboBox1.Items.AddRange(new object[] {
             "Seleccione un valor",
             "Ninguno ",
@@ -824,10 +912,10 @@
             "Población LGTBIQ ",
             "Primera Infancia ",
             "Victima Conflicto Armado"});
-            this.guna2ComboBox1.Location = new System.Drawing.Point(553, 230);
+            this.guna2ComboBox1.Location = new System.Drawing.Point(553, 221);
             this.guna2ComboBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.guna2ComboBox1.Name = "guna2ComboBox1";
-            this.guna2ComboBox1.Size = new System.Drawing.Size(346, 36);
+            this.guna2ComboBox1.Size = new System.Drawing.Size(346, 44);
             this.guna2ComboBox1.StartIndex = 0;
             this.guna2ComboBox1.TabIndex = 79;
             // 
@@ -842,29 +930,29 @@
             this.guna2PictureBox9.TabIndex = 78;
             this.guna2PictureBox9.TabStop = false;
             // 
-            // guna2TextBox11
+            // Txt_TelefonoCelular
             // 
-            this.guna2TextBox11.Animated = true;
-            this.guna2TextBox11.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox11.BorderThickness = 2;
-            this.guna2TextBox11.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox11.DefaultText = "Dijite su número de celular";
-            this.guna2TextBox11.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox11.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox11.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox11.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox11.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox11.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox11.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox11.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox11.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox11.Location = new System.Drawing.Point(553, 598);
-            this.guna2TextBox11.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox11.Name = "guna2TextBox11";
-            this.guna2TextBox11.PlaceholderText = "";
-            this.guna2TextBox11.SelectedText = "";
-            this.guna2TextBox11.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox11.TabIndex = 77;
+            this.Txt_TelefonoCelular.Animated = true;
+            this.Txt_TelefonoCelular.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_TelefonoCelular.BorderThickness = 2;
+            this.Txt_TelefonoCelular.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_TelefonoCelular.DefaultText = "Dijite su número de celular";
+            this.Txt_TelefonoCelular.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_TelefonoCelular.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_TelefonoCelular.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_TelefonoCelular.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_TelefonoCelular.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_TelefonoCelular.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_TelefonoCelular.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_TelefonoCelular.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_TelefonoCelular.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_TelefonoCelular.Location = new System.Drawing.Point(553, 598);
+            this.Txt_TelefonoCelular.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_TelefonoCelular.Name = "Txt_TelefonoCelular";
+            this.Txt_TelefonoCelular.PlaceholderText = "";
+            this.Txt_TelefonoCelular.SelectedText = "";
+            this.Txt_TelefonoCelular.Size = new System.Drawing.Size(346, 45);
+            this.Txt_TelefonoCelular.TabIndex = 77;
             // 
             // guna2PictureBox10
             // 
@@ -877,49 +965,51 @@
             this.guna2PictureBox10.TabIndex = 76;
             this.guna2PictureBox10.TabStop = false;
             // 
-            // guna2TextBox12
+            // Txt_TelefonoFijo
             // 
-            this.guna2TextBox12.Animated = true;
-            this.guna2TextBox12.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox12.BorderThickness = 2;
-            this.guna2TextBox12.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox12.DefaultText = "Dijite su número de teléfono";
-            this.guna2TextBox12.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox12.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox12.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox12.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox12.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox12.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox12.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox12.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox12.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox12.Location = new System.Drawing.Point(111, 598);
-            this.guna2TextBox12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox12.Name = "guna2TextBox12";
-            this.guna2TextBox12.PlaceholderText = "";
-            this.guna2TextBox12.SelectedText = "";
-            this.guna2TextBox12.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox12.TabIndex = 75;
+            this.Txt_TelefonoFijo.Animated = true;
+            this.Txt_TelefonoFijo.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_TelefonoFijo.BorderThickness = 2;
+            this.Txt_TelefonoFijo.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_TelefonoFijo.DefaultText = "Dijite su número de teléfono";
+            this.Txt_TelefonoFijo.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_TelefonoFijo.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_TelefonoFijo.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_TelefonoFijo.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_TelefonoFijo.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_TelefonoFijo.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_TelefonoFijo.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_TelefonoFijo.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_TelefonoFijo.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_TelefonoFijo.Location = new System.Drawing.Point(111, 598);
+            this.Txt_TelefonoFijo.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_TelefonoFijo.Name = "Txt_TelefonoFijo";
+            this.Txt_TelefonoFijo.PlaceholderText = "";
+            this.Txt_TelefonoFijo.SelectedText = "";
+            this.Txt_TelefonoFijo.Size = new System.Drawing.Size(346, 45);
+            this.Txt_TelefonoFijo.TabIndex = 75;
             // 
             // guna2HtmlLabel11
             // 
+            this.guna2HtmlLabel11.AutoSize = false;
             this.guna2HtmlLabel11.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel11.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel11.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel11.Location = new System.Drawing.Point(504, 564);
             this.guna2HtmlLabel11.Name = "guna2HtmlLabel11";
-            this.guna2HtmlLabel11.Size = new System.Drawing.Size(118, 22);
+            this.guna2HtmlLabel11.Size = new System.Drawing.Size(357, 22);
             this.guna2HtmlLabel11.TabIndex = 74;
             this.guna2HtmlLabel11.Text = "Teléfono Celular";
             // 
             // guna2HtmlLabel12
             // 
+            this.guna2HtmlLabel12.AutoSize = false;
             this.guna2HtmlLabel12.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel12.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel12.Location = new System.Drawing.Point(62, 564);
             this.guna2HtmlLabel12.Name = "guna2HtmlLabel12";
-            this.guna2HtmlLabel12.Size = new System.Drawing.Size(94, 22);
+            this.guna2HtmlLabel12.Size = new System.Drawing.Size(342, 22);
             this.guna2HtmlLabel12.TabIndex = 73;
             this.guna2HtmlLabel12.Text = "Teléfono Fijo";
             // 
@@ -934,29 +1024,29 @@
             this.guna2PictureBox7.TabIndex = 72;
             this.guna2PictureBox7.TabStop = false;
             // 
-            // guna2TextBox9
+            // Txt_confirmacion
             // 
-            this.guna2TextBox9.Animated = true;
-            this.guna2TextBox9.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox9.BorderThickness = 2;
-            this.guna2TextBox9.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox9.DefaultText = "Correo electrónico";
-            this.guna2TextBox9.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox9.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox9.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox9.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox9.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox9.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox9.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox9.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox9.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox9.Location = new System.Drawing.Point(553, 503);
-            this.guna2TextBox9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox9.Name = "guna2TextBox9";
-            this.guna2TextBox9.PlaceholderText = "";
-            this.guna2TextBox9.SelectedText = "";
-            this.guna2TextBox9.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox9.TabIndex = 71;
+            this.Txt_confirmacion.Animated = true;
+            this.Txt_confirmacion.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_confirmacion.BorderThickness = 2;
+            this.Txt_confirmacion.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_confirmacion.DefaultText = "Correo electrónico";
+            this.Txt_confirmacion.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_confirmacion.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_confirmacion.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_confirmacion.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_confirmacion.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_confirmacion.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_confirmacion.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_confirmacion.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_confirmacion.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_confirmacion.Location = new System.Drawing.Point(553, 503);
+            this.Txt_confirmacion.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_confirmacion.Name = "Txt_confirmacion";
+            this.Txt_confirmacion.PlaceholderText = "";
+            this.Txt_confirmacion.SelectedText = "";
+            this.Txt_confirmacion.Size = new System.Drawing.Size(346, 45);
+            this.Txt_confirmacion.TabIndex = 71;
             // 
             // guna2PictureBox8
             // 
@@ -969,49 +1059,51 @@
             this.guna2PictureBox8.TabIndex = 70;
             this.guna2PictureBox8.TabStop = false;
             // 
-            // guna2TextBox10
+            // Txt_Correo
             // 
-            this.guna2TextBox10.Animated = true;
-            this.guna2TextBox10.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox10.BorderThickness = 2;
-            this.guna2TextBox10.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox10.DefaultText = "Digite su correo electrónico\r\n";
-            this.guna2TextBox10.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox10.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox10.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox10.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox10.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox10.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox10.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox10.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox10.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox10.Location = new System.Drawing.Point(111, 503);
-            this.guna2TextBox10.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox10.Name = "guna2TextBox10";
-            this.guna2TextBox10.PlaceholderText = "";
-            this.guna2TextBox10.SelectedText = "";
-            this.guna2TextBox10.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox10.TabIndex = 69;
+            this.Txt_Correo.Animated = true;
+            this.Txt_Correo.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_Correo.BorderThickness = 2;
+            this.Txt_Correo.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_Correo.DefaultText = "Digite su correo electrónico\r\n";
+            this.Txt_Correo.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_Correo.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_Correo.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Correo.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Correo.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_Correo.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Correo.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_Correo.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_Correo.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Correo.Location = new System.Drawing.Point(111, 503);
+            this.Txt_Correo.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_Correo.Name = "Txt_Correo";
+            this.Txt_Correo.PlaceholderText = "";
+            this.Txt_Correo.SelectedText = "";
+            this.Txt_Correo.Size = new System.Drawing.Size(346, 45);
+            this.Txt_Correo.TabIndex = 69;
             // 
             // guna2HtmlLabel1
             // 
+            this.guna2HtmlLabel1.AutoSize = false;
             this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel1.Location = new System.Drawing.Point(504, 469);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(273, 22);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(397, 22);
             this.guna2HtmlLabel1.TabIndex = 68;
             this.guna2HtmlLabel1.Text = "(*) Confirmación de Correo Electrónico";
             // 
             // guna2HtmlLabel9
             // 
+            this.guna2HtmlLabel9.AutoSize = false;
             this.guna2HtmlLabel9.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel9.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel9.Location = new System.Drawing.Point(62, 469);
             this.guna2HtmlLabel9.Name = "guna2HtmlLabel9";
-            this.guna2HtmlLabel9.Size = new System.Drawing.Size(154, 22);
+            this.guna2HtmlLabel9.Size = new System.Drawing.Size(377, 28);
             this.guna2HtmlLabel9.TabIndex = 67;
             this.guna2HtmlLabel9.Text = "(*) Correo Electrónico";
             // 
@@ -1048,29 +1140,29 @@
             this.guna2PictureBox6.TabIndex = 60;
             this.guna2PictureBox6.TabStop = false;
             // 
-            // guna2TextBox8
+            // Txt_apellidos
             // 
-            this.guna2TextBox8.Animated = true;
-            this.guna2TextBox8.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox8.BorderThickness = 2;
-            this.guna2TextBox8.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox8.DefaultText = "Digite sus apellidos o nombre del representante legal";
-            this.guna2TextBox8.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox8.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox8.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox8.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox8.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox8.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox8.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox8.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox8.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox8.Location = new System.Drawing.Point(555, 410);
-            this.guna2TextBox8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox8.Name = "guna2TextBox8";
-            this.guna2TextBox8.PlaceholderText = "";
-            this.guna2TextBox8.SelectedText = "";
-            this.guna2TextBox8.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox8.TabIndex = 59;
+            this.Txt_apellidos.Animated = true;
+            this.Txt_apellidos.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_apellidos.BorderThickness = 2;
+            this.Txt_apellidos.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_apellidos.DefaultText = "Digite sus apellidos o nombre del representante legal";
+            this.Txt_apellidos.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_apellidos.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_apellidos.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_apellidos.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_apellidos.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_apellidos.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_apellidos.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_apellidos.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_apellidos.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_apellidos.Location = new System.Drawing.Point(555, 410);
+            this.Txt_apellidos.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_apellidos.Name = "Txt_apellidos";
+            this.Txt_apellidos.PlaceholderText = "";
+            this.Txt_apellidos.SelectedText = "";
+            this.Txt_apellidos.Size = new System.Drawing.Size(346, 45);
+            this.Txt_apellidos.TabIndex = 59;
             // 
             // guna2PictureBox4
             // 
@@ -1083,71 +1175,75 @@
             this.guna2PictureBox4.TabIndex = 58;
             this.guna2PictureBox4.TabStop = false;
             // 
-            // guna2TextBox6
+            // Txt_Nombres
             // 
-            this.guna2TextBox6.Animated = true;
-            this.guna2TextBox6.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox6.BorderThickness = 2;
-            this.guna2TextBox6.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox6.DefaultText = "Digite su nomre ó razón social";
-            this.guna2TextBox6.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox6.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox6.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox6.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox6.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox6.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox6.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox6.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox6.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox6.Location = new System.Drawing.Point(113, 410);
-            this.guna2TextBox6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox6.Name = "guna2TextBox6";
-            this.guna2TextBox6.PlaceholderText = "";
-            this.guna2TextBox6.SelectedText = "";
-            this.guna2TextBox6.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox6.TabIndex = 57;
+            this.Txt_Nombres.Animated = true;
+            this.Txt_Nombres.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_Nombres.BorderThickness = 2;
+            this.Txt_Nombres.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_Nombres.DefaultText = "Digite su nomre ó razón social";
+            this.Txt_Nombres.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_Nombres.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_Nombres.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Nombres.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Nombres.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_Nombres.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Nombres.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_Nombres.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_Nombres.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Nombres.Location = new System.Drawing.Point(113, 410);
+            this.Txt_Nombres.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_Nombres.Name = "Txt_Nombres";
+            this.Txt_Nombres.PlaceholderText = "";
+            this.Txt_Nombres.SelectedText = "";
+            this.Txt_Nombres.Size = new System.Drawing.Size(346, 45);
+            this.Txt_Nombres.TabIndex = 57;
             // 
             // guna2HtmlLabel8
             // 
+            this.guna2HtmlLabel8.AutoSize = false;
             this.guna2HtmlLabel8.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel8.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel8.Location = new System.Drawing.Point(506, 375);
             this.guna2HtmlLabel8.Name = "guna2HtmlLabel8";
-            this.guna2HtmlLabel8.Size = new System.Drawing.Size(229, 22);
+            this.guna2HtmlLabel8.Size = new System.Drawing.Size(393, 22);
             this.guna2HtmlLabel8.TabIndex = 56;
             this.guna2HtmlLabel8.Text = "Apellidos / Representante Legal";
             // 
             // guna2HtmlLabel7
             // 
+            this.guna2HtmlLabel7.AutoSize = false;
             this.guna2HtmlLabel7.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel7.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel7.Location = new System.Drawing.Point(504, 278);
             this.guna2HtmlLabel7.Name = "guna2HtmlLabel7";
-            this.guna2HtmlLabel7.Size = new System.Drawing.Size(151, 22);
+            this.guna2HtmlLabel7.Size = new System.Drawing.Size(366, 22);
             this.guna2HtmlLabel7.TabIndex = 50;
             this.guna2HtmlLabel7.Text = "Tipo de identificación";
             // 
             // guna2HtmlLabel6
             // 
+            this.guna2HtmlLabel6.AutoSize = false;
             this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel6.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel6.Location = new System.Drawing.Point(64, 375);
             this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
-            this.guna2HtmlLabel6.Size = new System.Drawing.Size(173, 22);
+            this.guna2HtmlLabel6.Size = new System.Drawing.Size(375, 22);
             this.guna2HtmlLabel6.TabIndex = 49;
             this.guna2HtmlLabel6.Text = "Nombres / Razón Social";
             // 
             // guna2HtmlLabel5
             // 
+            this.guna2HtmlLabel5.AutoSize = false;
             this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel5.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel5.Location = new System.Drawing.Point(62, 278);
             this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
-            this.guna2HtmlLabel5.Size = new System.Drawing.Size(177, 22);
+            this.guna2HtmlLabel5.Size = new System.Drawing.Size(282, 22);
             this.guna2HtmlLabel5.TabIndex = 46;
             this.guna2HtmlLabel5.Text = "Número de identificación";
             // 
@@ -1162,29 +1258,29 @@
             this.guna2PictureBox3.TabIndex = 44;
             this.guna2PictureBox3.TabStop = false;
             // 
-            // guna2TextBox5
+            // Txt_Identificacion
             // 
-            this.guna2TextBox5.Animated = true;
-            this.guna2TextBox5.BorderColor = System.Drawing.Color.Silver;
-            this.guna2TextBox5.BorderThickness = 2;
-            this.guna2TextBox5.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox5.DefaultText = "Digite su número de identificación";
-            this.guna2TextBox5.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox5.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox5.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox5.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox5.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox5.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox5.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2TextBox5.ForeColor = System.Drawing.Color.Gray;
-            this.guna2TextBox5.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox5.Location = new System.Drawing.Point(111, 318);
-            this.guna2TextBox5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.guna2TextBox5.Name = "guna2TextBox5";
-            this.guna2TextBox5.PlaceholderText = "";
-            this.guna2TextBox5.SelectedText = "";
-            this.guna2TextBox5.Size = new System.Drawing.Size(346, 45);
-            this.guna2TextBox5.TabIndex = 43;
+            this.Txt_Identificacion.Animated = true;
+            this.Txt_Identificacion.BorderColor = System.Drawing.Color.Silver;
+            this.Txt_Identificacion.BorderThickness = 2;
+            this.Txt_Identificacion.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_Identificacion.DefaultText = "Digite su número de identificación";
+            this.Txt_Identificacion.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_Identificacion.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_Identificacion.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Identificacion.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Identificacion.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_Identificacion.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Identificacion.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_Identificacion.ForeColor = System.Drawing.Color.Gray;
+            this.Txt_Identificacion.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Identificacion.Location = new System.Drawing.Point(111, 318);
+            this.Txt_Identificacion.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Txt_Identificacion.Name = "Txt_Identificacion";
+            this.Txt_Identificacion.PlaceholderText = "";
+            this.Txt_Identificacion.SelectedText = "";
+            this.Txt_Identificacion.Size = new System.Drawing.Size(346, 45);
+            this.Txt_Identificacion.TabIndex = 43;
             // 
             // guna2PictureBox1
             // 
@@ -1199,32 +1295,35 @@
             // 
             // guna2HtmlLabel4
             // 
+            this.guna2HtmlLabel4.AutoSize = false;
             this.guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel4.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel4.Location = new System.Drawing.Point(506, 181);
             this.guna2HtmlLabel4.Name = "guna2HtmlLabel4";
-            this.guna2HtmlLabel4.Size = new System.Drawing.Size(355, 22);
+            this.guna2HtmlLabel4.Size = new System.Drawing.Size(517, 34);
             this.guna2HtmlLabel4.TabIndex = 34;
             this.guna2HtmlLabel4.Text = "(*)¿Te Encuentras en Alguna Condición Especial?";
             // 
             // guna2HtmlLabel3
             // 
+            this.guna2HtmlLabel3.AutoSize = false;
             this.guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.guna2HtmlLabel3.ForeColor = System.Drawing.Color.Black;
             this.guna2HtmlLabel3.Location = new System.Drawing.Point(62, 181);
             this.guna2HtmlLabel3.Name = "guna2HtmlLabel3";
-            this.guna2HtmlLabel3.Size = new System.Drawing.Size(149, 22);
+            this.guna2HtmlLabel3.Size = new System.Drawing.Size(282, 22);
             this.guna2HtmlLabel3.TabIndex = 31;
             this.guna2HtmlLabel3.Text = "(*)Tipo de Solicitante";
             // 
             // guna2HtmlLabel2
             // 
+            this.guna2HtmlLabel2.AutoSize = false;
             this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel2.Location = new System.Drawing.Point(2, 143);
+            this.guna2HtmlLabel2.Location = new System.Drawing.Point(52, 143);
             this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            this.guna2HtmlLabel2.Size = new System.Drawing.Size(859, 18);
+            this.guna2HtmlLabel2.Size = new System.Drawing.Size(1109, 18);
             this.guna2HtmlLabel2.TabIndex = 15;
             this.guna2HtmlLabel2.Text = resources.GetString("guna2HtmlLabel2.Text");
             // 
@@ -1291,74 +1390,15 @@
             // 
             // Btn_Nueva_Solicitud
             // 
+            this.Btn_Nueva_Solicitud.AutoSize = false;
             this.Btn_Nueva_Solicitud.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(52)))), ((int)(((byte)(61)))));
             this.Btn_Nueva_Solicitud.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F);
             this.Btn_Nueva_Solicitud.ForeColor = System.Drawing.Color.White;
             this.Btn_Nueva_Solicitud.Location = new System.Drawing.Point(169, 37);
             this.Btn_Nueva_Solicitud.Name = "Btn_Nueva_Solicitud";
-            this.Btn_Nueva_Solicitud.Size = new System.Drawing.Size(138, 24);
+            this.Btn_Nueva_Solicitud.Size = new System.Drawing.Size(370, 24);
             this.Btn_Nueva_Solicitud.TabIndex = 34;
             this.Btn_Nueva_Solicitud.Text = "/ Nueva Solicitud";
-            // 
-            // cmbPaises
-            // 
-            this.cmbPaises.BackColor = System.Drawing.Color.Transparent;
-            this.cmbPaises.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.cmbPaises.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbPaises.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.cmbPaises.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.cmbPaises.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.cmbPaises.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
-            this.cmbPaises.ItemHeight = 30;
-            this.cmbPaises.Items.AddRange(new object[] {
-            "Seleccione el País",
-            "Colombia"});
-            this.cmbPaises.Location = new System.Drawing.Point(109, 698);
-            this.cmbPaises.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.cmbPaises.Name = "cmbPaises";
-            this.cmbPaises.Size = new System.Drawing.Size(345, 36);
-            this.cmbPaises.StartIndex = 0;
-            this.cmbPaises.TabIndex = 82;
-            // 
-            // cmbCiudades
-            // 
-            this.cmbCiudades.BackColor = System.Drawing.Color.Transparent;
-            this.cmbCiudades.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.cmbCiudades.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbCiudades.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.cmbCiudades.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.cmbCiudades.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.cmbCiudades.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
-            this.cmbCiudades.ItemHeight = 30;
-            this.cmbCiudades.Items.AddRange(new object[] {
-            "Seleccione la Ciudad",
-            "Medellín"});
-            this.cmbCiudades.Location = new System.Drawing.Point(107, 792);
-            this.cmbCiudades.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.cmbCiudades.Name = "cmbCiudades";
-            this.cmbCiudades.Size = new System.Drawing.Size(345, 36);
-            this.cmbCiudades.StartIndex = 0;
-            this.cmbCiudades.TabIndex = 120;
-            // 
-            // cmbDepartamentos
-            // 
-            this.cmbDepartamentos.BackColor = System.Drawing.Color.Transparent;
-            this.cmbDepartamentos.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.cmbDepartamentos.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbDepartamentos.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.cmbDepartamentos.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.cmbDepartamentos.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.cmbDepartamentos.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
-            this.cmbDepartamentos.ItemHeight = 30;
-            this.cmbDepartamentos.Items.AddRange(new object[] {
-            "Seleccione el Departamento",
-            "Medellín"});
-            this.cmbDepartamentos.Location = new System.Drawing.Point(551, 698);
-            this.cmbDepartamentos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.cmbDepartamentos.Name = "cmbDepartamentos";
-            this.cmbDepartamentos.Size = new System.Drawing.Size(345, 36);
-            this.cmbDepartamentos.StartIndex = 0;
-            this.cmbDepartamentos.TabIndex = 121;
             // 
             // Nuevo_PQRSFD
             // 
@@ -1366,7 +1406,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.ClientSize = new System.Drawing.Size(1233, 589);
+            this.ClientSize = new System.Drawing.Size(1215, 589);
             this.Controls.Add(this.Btn_Nueva_Solicitud);
             this.Controls.Add(this.Btn_next);
             this.Controls.Add(this.guna2CirclePictureBox5);
@@ -1391,7 +1431,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.Ingreso)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Btn_volver)).EndInit();
             this.guna2Panel2.ResumeLayout(false);
-            this.guna2Panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox11)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox12)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox13)).EndInit();
@@ -1412,7 +1451,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Btn_next)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -1435,64 +1473,62 @@
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel4;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox3;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox5;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_Identificacion;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel6;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel8;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel7;
         private Guna.UI2.WinForms.Guna2CirclePictureBox Btn_next;
         private Guna.UI2.WinForms.Guna2HtmlLabel Btn_Nueva_Solicitud;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox6;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox8;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_apellidos;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox4;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox6;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_Nombres;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox5;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox2;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel5;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox7;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox9;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_confirmacion;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox8;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox10;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_Correo;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel9;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox9;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox11;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_TelefonoCelular;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox10;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox12;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_TelefonoFijo;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel11;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel12;
         private Guna.UI2.WinForms.Guna2ComboBox guna2ComboBox1;
-        private Guna.UI2.WinForms.Guna2ComboBox guna2ComboBox3;
-        private Guna.UI2.WinForms.Guna2ComboBox guna2ComboBox2;
-        private System.Windows.Forms.Button button1;
+        private Guna.UI2.WinForms.Guna2ComboBox cmbTipoIdentificacion;
+        private Guna.UI2.WinForms.Guna2ComboBox cmbTipoSolicitante;
+        private System.Windows.Forms.Button Btn_Enviar;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox11;
-        private Guna.UI2.WinForms.Guna2Button guna2Button5;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox12;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox13;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
-        private Guna.UI2.WinForms.Guna2Button guna2Button4;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel13;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox14;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel14;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox13;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel15;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox14;
+        private System.Windows.Forms.CheckBox chkAutorizacion;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_Descripcion;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel16;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel17;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel18;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox15;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox16;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox16;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_BarrioVereda;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox17;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox17;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_CodigoPostal;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel19;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel20;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel21;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel22;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox18;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox18;
+        private Guna.UI2.WinForms.Guna2TextBox Txt_Direccion;
         private Guna.UI2.WinForms.Guna2ComboBox cmbPaises;
         private Guna.UI2.WinForms.Guna2ComboBox cmbDepartamentos;
         private Guna.UI2.WinForms.Guna2ComboBox cmbCiudades;
+        private Guna.UI2.WinForms.Guna2ComboBox cmbMedioRespuesta;
+        private Guna.UI2.WinForms.Guna2ComboBox cmbTipoSolicitud;
     }
 }

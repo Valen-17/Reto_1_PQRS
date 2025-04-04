@@ -12,13 +12,11 @@ namespace Reto_1_PQRS
 {
     public partial class Nuevo_PQRSFD_2 : Form
     {
-        public Nuevo_PQRSFD_2()
+        public Nuevo_PQRSFD_2(int codigoSeguimiento, DateTime fechaHoraRadicacion)
         {
             InitializeComponent();
-        }
-
-        private void guna2HtmlLabel11_Click(object sender, EventArgs e)
-        {
+            Txt_CodigoSeguimiento.Text = codigoSeguimiento.ToString();
+            Txt_Fecha.Text = fechaHoraRadicacion.ToString("yyyy-MM-dd HH:mm:ss");
 
         }
         private void Ingreso_Click(object sender, EventArgs e)
@@ -27,13 +25,6 @@ namespace Reto_1_PQRS
             ingresoForm.Show();
             this.Hide();
         }
-        private void btn_back_Click(object sender, EventArgs e)
-        {
-            Nuevo_PQRSFD nuevoPQRSFDForm = new Nuevo_PQRSFD();
-            nuevoPQRSFDForm.Show();
-            this.Hide();
-        }
-
         private void Btn_volver_Click(object sender, EventArgs e)
         {
             Form1 form1Form = new Form1();

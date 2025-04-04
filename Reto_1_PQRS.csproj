@@ -64,23 +64,11 @@
     <Compile Include="Consultar Solicitud.Designer.cs">
       <DependentUpon>Consultar Solicitud.cs</DependentUpon>
     </Compile>
-    <Compile Include="Estado Solicitud.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Estado Solicitud.Designer.cs">
-      <DependentUpon>Estado Solicitud.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormAdmin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormAdmin.Designer.cs">
-      <DependentUpon>FormAdmin.cs</DependentUpon>
     </Compile>
     <Compile Include="Ingreso.cs">
       <SubType>Form</SubType>
@@ -108,38 +96,14 @@
     <Compile Include="RecuperarContraseña.Designer.cs">
       <DependentUpon>RecuperarContraseña.cs</DependentUpon>
     </Compile>
-    <Compile Include="Solicitudes.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Solicitudes.Designer.cs">
-      <DependentUpon>Solicitudes.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Solicitudes_2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Solicitudes_2.Designer.cs">
-      <DependentUpon>Solicitudes_2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Solicitudes_3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Solicitudes_3.Designer.cs">
-      <DependentUpon>Solicitudes_3.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Admin.resx">
       <DependentUpon>Admin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Consultar Solicitud.resx">
       <DependentUpon>Consultar Solicitud.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Estado Solicitud.resx">
-      <DependentUpon>Estado Solicitud.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormAdmin.resx">
-      <DependentUpon>FormAdmin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Ingreso.resx">
       <DependentUpon>Ingreso.cs</DependentUpon>
@@ -159,18 +123,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Solicitudes.es.resx">
-      <DependentUpon>Solicitudes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Solicitudes.resx">
-      <DependentUpon>Solicitudes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Solicitudes_2.resx">
-      <DependentUpon>Solicitudes_2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Solicitudes_3.resx">
-      <DependentUpon>Solicitudes_3.cs</DependentUpon>
-    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
