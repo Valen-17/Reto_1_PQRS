@@ -422,8 +422,7 @@
             this.cmbDepartamentos.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.cmbDepartamentos.ItemHeight = 35;
             this.cmbDepartamentos.Items.AddRange(new object[] {
-            "Seleccione el Departamento",
-            "Medellín"});
+            "Seleccione el Departamento"});
             this.cmbDepartamentos.Location = new System.Drawing.Point(551, 693);
             this.cmbDepartamentos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cmbDepartamentos.Name = "cmbDepartamentos";
@@ -445,8 +444,7 @@
             this.cmbCiudades.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.cmbCiudades.ItemHeight = 35;
             this.cmbCiudades.Items.AddRange(new object[] {
-            "Seleccione la Ciudad",
-            "Medellín"});
+            "Seleccione la Ciudad"});
             this.cmbCiudades.Location = new System.Drawing.Point(105, 789);
             this.cmbCiudades.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cmbCiudades.Name = "cmbCiudades";
@@ -469,37 +467,22 @@
             this.cmbPaises.Items.AddRange(new object[] {
             "Seleccione el País",
             "Colombia",
-            "Estados Unidos",
-            "",
             "Canadá",
-            "",
+            "Estados Unidos",
             "México",
-            "",
             "Brasil",
-            "",
             "Argentina",
             "Reino Unido",
-            "",
             "Francia",
-            "",
             "Alemania",
-            "",
             "Italia",
-            "",
             "España",
-            "",
             "Rusia",
-            "",
             "China",
-            "",
             "Japón",
-            "",
             "India",
-            "",
             "Corea del Sur",
-            "",
             "Australia",
-            "",
             "Arabia Saudita"});
             this.cmbPaises.Location = new System.Drawing.Point(108, 694);
             this.cmbPaises.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -507,6 +490,7 @@
             this.cmbPaises.Size = new System.Drawing.Size(345, 41);
             this.cmbPaises.StartIndex = 0;
             this.cmbPaises.TabIndex = 82;
+            this.cmbPaises.SelectedIndexChanged += new System.EventHandler(this.cmbPaises_SelectedIndexChanged_1);
             // 
             // Btn_Enviar
             // 
@@ -1347,6 +1331,7 @@
             this.guna2TextBox4.Multiline = true;
             this.guna2TextBox4.Name = "guna2TextBox4";
             this.guna2TextBox4.PlaceholderText = "";
+            this.guna2TextBox4.ReadOnly = true;
             this.guna2TextBox4.SelectedText = "";
             this.guna2TextBox4.Size = new System.Drawing.Size(866, 93);
             this.guna2TextBox4.TabIndex = 14;
@@ -1370,6 +1355,7 @@
             this.guna2TextBox3.Multiline = true;
             this.guna2TextBox3.Name = "guna2TextBox3";
             this.guna2TextBox3.PlaceholderText = "";
+            this.guna2TextBox3.ReadOnly = true;
             this.guna2TextBox3.SelectedText = "";
             this.guna2TextBox3.Size = new System.Drawing.Size(416, 61);
             this.guna2TextBox3.TabIndex = 13;

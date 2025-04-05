@@ -92,10 +92,10 @@ namespace Reto_1_PQRS
         private void CargarPaises()
         {
             List<string> paises = new List<string>
-        {
-            "Estados Unidos", "Canadá", "México", "Brasil", "Argentina", "Colombia",
-            "Reino Unido", "Francia", "Alemania", "Italia", "España", "China", "Japón"
-        };
+            {
+                "Seleccione el País", "Estados Unidos", "Canadá", "México", "Brasil", "Argentina", "Colombia",
+                "Reino Unido", "Francia", "Alemania", "Italia", "España", "China", "Japón"
+            };
 
             cmbPaises.DataSource = paises; // Asigna la lista de países al ComboBox
         }
@@ -121,9 +121,9 @@ namespace Reto_1_PQRS
         private void CargarDepartamentos()
         {
             List<string> departamentos = new List<string>
-        {
-            "Antioquia", "Cundinamarca", "Valle del Cauca", "Santander", "Atlántico"
-        };
+            {
+            "Seleccione el Departamento", "Antioquia", "Cundinamarca", "Valle del Cauca", "Santander", "Atlántico"
+            };
 
             cmbDepartamentos.DataSource = departamentos;
         }
@@ -131,13 +131,13 @@ namespace Reto_1_PQRS
         private void InicializarCiudades()
         {
             ciudadesPorDepartamento = new Dictionary<string, List<string>>
-        {
-            { "Antioquia", new List<string> { "Medellín", "Bello", "Itagüí", "Envigado", "Rionegro" } },
-            { "Cundinamarca", new List<string> { "Bogotá", "Soacha", "Chía", "Zipaquirá", "Facatativá" } },
-            { "Valle del Cauca", new List<string> { "Cali", "Palmira", "Buenaventura", "Tuluá", "Cartago" } },
-            { "Santander", new List<string> { "Bucaramanga", "Floridablanca", "Girón", "Piedecuesta", "Barrancabermeja" } },
-            { "Atlántico", new List<string> { "Barranquilla", "Soledad", "Malambo", "Galapa", "Puerto Colombia" } }
-        };
+            {
+                { "Antioquia", new List<string> { "Seleccione la Ciudad", "Medellín", "Bello", "Itagüí", "Envigado", "Rionegro" } },
+                { "Cundinamarca", new List<string> { "Seleccione la Ciudad", "Bogotá", "Soacha", "Chía", "Zipaquirá", "Facatativá" } },
+                { "Valle del Cauca", new List<string> { "Seleccione la Ciudad", "Cali", "Palmira", "Buenaventura", "Tuluá", "Cartago" } },
+                { "Santander", new List<string> { "Seleccione la Ciudad", "Bucaramanga", "Floridablanca", "Girón", "Piedecuesta", "Barrancabermeja" } },
+                { "Atlántico", new List<string> { "Seleccione la Ciudad", "Barranquilla", "Soledad", "Malambo", "Galapa", "Puerto Colombia" } }
+            };
         }
 
         private void CmbDepartamentos_SelectedIndexChanged(object sender, EventArgs e)
@@ -228,6 +228,11 @@ namespace Reto_1_PQRS
             public DateTime FechaHoraRadicacion { get; set; }
             public string Correo { get; set; }
             public string Descripcion { get; set; }
+        }
+
+        private void cmbPaises_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

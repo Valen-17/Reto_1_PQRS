@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|c:\\users\\luz\\source\\repos\\reto_1_pqrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|c:\\users\\luz\\source\\repos\\reto_1_pqrs\\nuevo pqrsfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:nuevo pqrsfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\nuevo pqrsfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:nuevo pqrsfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\nuevo pqrsfd_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:nuevo pqrsfd_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\consultar solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -15,39 +35,19 @@
       "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\nuevo pqrsfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:nuevo pqrsfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|c:\\users\\luz\\source\\repos\\reto_1_pqrs\\nuevo pqrsfd_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\nuevo pqrsfd_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:nuevo pqrsfd_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|c:\\users\\luz\\source\\repos\\reto_1_pqrs\\nuevo pqrsfd_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:nuevo pqrsfd_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\nuevo pqrsfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:nuevo pqrsfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\consultar solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:consultar solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|c:\\users\\luz\\source\\repos\\reto_1_pqrs\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9069B72F-1E98-4414-A745-C53E07EB14B6}|Reto_1_PQRS.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,49 +81,22 @@
               "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Nuevo PQRSFD_2.cs [Dise\u00F1o]",
               "RelativeToolTip": "Nuevo PQRSFD_2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T20:44:05.977Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-03T20:44:05.977Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Nuevo PQRSFD_2.cs",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Nuevo PQRSFD_2.cs",
-              "RelativeDocumentMoniker": "Nuevo PQRSFD_2.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Nuevo PQRSFD_2.cs",
-              "RelativeToolTip": "Nuevo PQRSFD_2.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T20:48:06.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T22:58:58.928Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-01T22:58:58.928Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Consultar Solicitud.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Consultar Solicitud.cs",
-              "RelativeDocumentMoniker": "Consultar Solicitud.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Consultar Solicitud.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Consultar Solicitud.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T02:24:07.49Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Nuevo PQRSFD.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Nuevo PQRSFD.cs",
               "RelativeDocumentMoniker": "Nuevo PQRSFD.cs",
@@ -135,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -143,25 +116,69 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T05:06:10.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T05:06:10.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Ingreso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Ingreso.cs",
+              "RelativeDocumentMoniker": "Ingreso.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Ingreso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ingreso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:42:29.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Admin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Admin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:19:08.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Nuevo PQRSFD.cs",
               "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Nuevo PQRSFD.cs",
               "RelativeDocumentMoniker": "Nuevo PQRSFD.cs",
               "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Nuevo PQRSFD.cs",
               "RelativeToolTip": "Nuevo PQRSFD.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAADwv+EAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T21:58:15.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "Consultar Solicitud.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Consultar Solicitud.cs",
+              "RelativeDocumentMoniker": "Consultar Solicitud.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Consultar Solicitud.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Consultar Solicitud.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:24:07.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nuevo PQRSFD_2.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Nuevo PQRSFD_2.cs",
+              "RelativeDocumentMoniker": "Nuevo PQRSFD_2.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Nuevo PQRSFD_2.cs",
+              "RelativeToolTip": "Nuevo PQRSFD_2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:48:06.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Consultar Solicitud.cs",
               "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Consultar Solicitud.cs",
               "RelativeDocumentMoniker": "Consultar Solicitud.cs",
@@ -169,24 +186,11 @@
               "RelativeToolTip": "Consultar Solicitud.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAwwE4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T05:25:08.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T05:25:08.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Ingreso.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Ingreso.cs",
-              "RelativeDocumentMoniker": "Ingreso.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Ingreso.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ingreso.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T02:42:29.728Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Ingreso.cs",
               "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Ingreso.cs",
               "RelativeDocumentMoniker": "Ingreso.cs",
@@ -194,8 +198,7 @@
               "RelativeToolTip": "Ingreso.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA1wCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T16:13:33.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T16:13:33.836Z"
             },
             {
               "$type": "Document",
@@ -207,20 +210,7 @@
               "RelativeToolTip": "Admin.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAmwB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T21:24:28.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Admin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Admin.cs",
-              "RelativeDocumentMoniker": "Admin.cs",
-              "ToolTip": "C:\\Users\\Luz\\source\\repos\\Reto_1_PQRS\\Admin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Admin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T03:19:08.638Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-03T21:24:28.919Z"
             }
           ]
         }

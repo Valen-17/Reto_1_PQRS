@@ -238,6 +238,7 @@
             this.guna2TextBox3.Multiline = true;
             this.guna2TextBox3.Name = "guna2TextBox3";
             this.guna2TextBox3.PlaceholderText = "";
+            this.guna2TextBox3.ReadOnly = true;
             this.guna2TextBox3.SelectedText = "";
             this.guna2TextBox3.Size = new System.Drawing.Size(703, 69);
             this.guna2TextBox3.TabIndex = 13;
@@ -262,6 +263,7 @@
             this.guna2TextBox4.Multiline = true;
             this.guna2TextBox4.Name = "guna2TextBox4";
             this.guna2TextBox4.PlaceholderText = "";
+            this.guna2TextBox4.ReadOnly = true;
             this.guna2TextBox4.SelectedText = "";
             this.guna2TextBox4.Size = new System.Drawing.Size(916, 64);
             this.guna2TextBox4.TabIndex = 14;
@@ -326,6 +328,7 @@
             this.textBox1.Location = new System.Drawing.Point(124, 192);
             this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(284, 38);
             this.textBox1.TabIndex = 76;
             this.textBox1.Text = "Código de Solicitud";
