@@ -228,6 +228,7 @@ namespace Reto_1_PQRS
             public DateTime FechaHoraRadicacion { get; set; }
             public string Correo { get; set; }
             public string Descripcion { get; set; }
+            public string Estado { get; set; } = "Pendiente";
         }
 
         private void cmbPaises_SelectedIndexChanged_1(object sender, EventArgs e)

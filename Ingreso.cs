@@ -7,12 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static Reto_1_PQRS.Nuevo_PQRSFD;
 
 namespace Reto_1_PQRS
 {
     public partial class Ingreso : Form
     {
         private List<Usuario> usuarios = new List<Usuario>();
+        private List<Solicitud> solicitudes = new List<Solicitud>();
         public Ingreso()
         {
             InitializeComponent();
@@ -71,7 +73,7 @@ namespace Reto_1_PQRS
                 MessageBox.Show($"Bienvenido {usuario.Username}");
                 if (usuario.Rol == "admin")
                 {
-                    Admin adminForm = new Admin();
+                    FormAdmin adminForm = new FormAdmin(Nuevo_PQRSFD.listaSolicitudes);
                     adminForm.Show();
                     this.Hide();
                 }
