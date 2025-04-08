@@ -83,11 +83,6 @@ namespace Reto_1_PQRS
                 MessageBox.Show("Usuario o contraseña incorrecto");
             }
         }
-        private void Recuperar_Contraseña_Click(object sender, EventArgs e)
-        {
-            RecuperarContraseña recuperarForm = new RecuperarContraseña(usuarios);
-            recuperarForm.Show();
-        }
 
         public class Usuario
         {

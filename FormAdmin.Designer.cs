@@ -223,6 +223,7 @@
             this.Ingreso.TabIndex = 42;
             this.Ingreso.TabStop = false;
             this.Ingreso.UseTransparentBackground = true;
+            this.Ingreso.Click += new System.EventHandler(this.Ingreso_Click);
             // 
             // guna2HtmlLabel1
             // 
@@ -251,6 +252,7 @@
             this.Btn_Inicio.TabIndex = 40;
             this.Btn_Inicio.TabStop = false;
             this.Btn_Inicio.UseTransparentBackground = true;
+            this.Btn_Inicio.Click += new System.EventHandler(this.Btn_Inicio_Click);
             // 
             // guna2Shapes2
             // 

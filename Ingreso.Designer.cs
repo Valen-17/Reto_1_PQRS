@@ -162,7 +162,6 @@
             this.Recuperar_Contraseña.Size = new System.Drawing.Size(246, 21);
             this.Recuperar_Contraseña.TabIndex = 3;
             this.Recuperar_Contraseña.Text = "Clic aqui ";
-            this.Recuperar_Contraseña.Click += new System.EventHandler(this.Recuperar_Contraseña_Click);
             // 
             // Ingreso
             // 
